@@ -17,28 +17,27 @@ def get_cruise_engineer_job_information():
         EC.element_to_be_clickable((By.XPATH, "//div[contains(@class, 'mc-closeModal')]"))
     )
     close.click()
-    vehicleSoftware = driver.find_element_by_xpath("//option[contains(@value, '4h3y7X5sMSZyhPJhmlSYod')]")
-    vehicleSoftware.click()
+    # find job department "Engineering - Autonomous Vehicle Software"
+    vehicle_software = driver.find_element_by_xpath("//option[contains(text(), 'Engineering - Autonomous Vehicle Software')]")
+    vehicle_software.click()
     url = driver.current_url
     driver.get(url)
-    cruise_soup = BeautifulSoup(driver.page_source, 'lxml')
-    for job in cruise_soup.find_all('a', {'class': 'JobTable--job--i8IkL'}):
-        job_title = job.driver.find_element_by_xpath("//div[contains(@class, 'JobTable--job__name--2Ku3c')]")
-        link = driver.find_element_by_partial_link_text(job_title.text)
+    for link in driver.find_elements_by_xpath("//a[contains(@class, 'JobTable--job--i8IkL')]"):
+        default_handle = driver.current_window_handle
         link.click()
-        url = driver.current_url
-        print(url)
-        driver.back()
-        #link = job_title.find_element_by_xpath("//a[contains(@class, 'JobTable--job--i8IkL')]")
+        window = driver.window_handles
+        driver.switch_to.window(window[1])
+        title = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "app-title"))
+        )
+        print(title.text)
+        driver.close()
+        driver.switch_to.window(default_handle)
     driver.quit()
 
-
-
-
-# scraping tesla
+#scraping tesla
 def get_tesla_engineer_job_information():
     print("---Tesla Software Job Information---")
-
     # fill in keyword you want to search
     keyword = 'software'
     driver.get('https://www.tesla.com/jp/careers/search#/?keyword=' + keyword + '&department=4&country=0')
@@ -92,7 +91,7 @@ def get_waymo_job_information(job_type):
 
 
 
-#get_waymo_software_engineer_job_information()
-#get_waymo_system_engineer_job_information()
-#get_tesla_engineer_job_information()
+get_waymo_software_engineer_job_information()
+get_waymo_system_engineer_job_information()
+get_tesla_engineer_job_information()
 get_cruise_engineer_job_information()
