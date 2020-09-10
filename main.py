@@ -8,6 +8,43 @@ import time
 
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
+driver.delete_all_cookies()
+
+# scraping argo ai
+def get_argo_engineer_job_information():
+    driver.get("https://www.argo.ai/join-us/#")
+    cookie = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "pea_cook_btn"))
+    )
+    cookie.click()
+    filter_btn = driver.find_element_by_xpath("//div[contains(@class, 'filter-button toggle')]")
+    filter_btn.click()
+    software_engineer = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.XPATH, "//p[contains(text(), 'Software Engineering')]"))
+    )
+    software_engineer.click()
+    #job_list = driver.find_elements_by_xpath("//div[contains(@class, 'job-container')]")
+    for i in range(len(driver.find_elements_by_xpath("//a[contains(@id, 'apply')]"))):
+        url = driver.current_url
+        # get new DOM
+        driver.get(url)
+        # get elements of new DOM
+        links = driver.find_elements_by_xpath("//a[contains(@id, 'apply')]")
+        # click the link( i(key number) won't change even the DOM change)
+        links[i].click()
+        # switch driver to iframe
+        driver.switch_to.frame(driver.find_element_by_xpath("//iframe[contains(@id, 'grnhse_iframe')]"))
+        job_title = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CLASS_NAME, 'app-title'))
+        )
+        print(job_title.text)
+        # get job description page DOM
+        job_description = driver.current_url
+        driver.get(job_description)
+        back = driver.find_element_by_xpath("//div[contains(@class, 'button back')]")
+        back.click()
+    driver.quit()
+
 
 # scraping gm cruise
 def get_cruise_engineer_job_information():
@@ -95,3 +132,4 @@ get_waymo_software_engineer_job_information()
 get_waymo_system_engineer_job_information()
 get_tesla_engineer_job_information()
 get_cruise_engineer_job_information()
+get_argo_engineer_job_information()
