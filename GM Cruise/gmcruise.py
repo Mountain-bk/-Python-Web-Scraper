@@ -3,6 +3,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import csv
+
 
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
@@ -23,23 +25,33 @@ def get_gmcruise_engineer_job_information():
     vehicle_software.click()
     url = driver.current_url
     driver.get(url)
-    for link in driver.find_elements_by_xpath("//a[contains(@class, 'JobTable--job--i8IkL')]"):
-        default_handle = driver.current_window_handle
-        link.click()
-        window = driver.window_handles
-        driver.switch_to.window(window[1])
-        title = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CLASS_NAME, "app-title"))
-        )
-        job_description = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.ID, "content"))
-        )
-        print("")
-        print("----------" + title.text + " (GM Cruise) ----------")
-        print(job_description.text)
-        print("")
-        driver.close()
-        driver.switch_to.window(default_handle)
+    with open('gmcruise-software-engineer.csv', 'w', newline='', encoding='UTF-8') as csv_file:
+        fieldnames = ['job-title', 'job-description']
+        csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        csv_writer.writeheader()
+        for link in driver.find_elements_by_xpath("//a[contains(@class, 'JobTable--job--i8IkL')]"):
+            default_handle = driver.current_window_handle
+            link.click()
+            window = driver.window_handles
+            driver.switch_to.window(window[1])
+            title = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "app-title"))
+            )
+            job_description = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.ID, "content"))
+            )
+
+            # print to terminal
+            print("")
+            print("----------" + title.text + " (GM Cruise) ----------")
+            print(job_description.text)
+            print("")
+
+            # input to csv file
+            csv_writer.writerow({'job-title': title.text, 'job-description': job_description.text})
+
+            driver.close()
+            driver.switch_to.window(default_handle)
     driver.quit()
 
 
