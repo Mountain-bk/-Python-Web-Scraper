@@ -1,0 +1,1147 @@
+job-title,job-description
+Atmospheric Science Lead,"
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+In this data science role, you will:
+
+Safety evaluation is of fundamental importance to Waymo, and measuring it is subtle.  This role works with a wide variety of teams across the company (onboard software engineering, product, safety, systems engineering) to evaluate the driving and safety performance of Waymo's self driving car. This is based on a wide variety of data from real and simulated driving from Waymoâs self-driving system as well as from external data sources.
+The Planner Team is responsible for ""motion planning"" for the self driving car.  This includes gracefully handling many complex situations involving social interactions (merging, negotiating narrow roads, etc), while dealing with a noisy and uncertain environment. Evaluation of this onboard decision-making system is a complex, open-ended problem with tremendous potential impact. The quality of the road maneuvers we execute is subjective, contextual, and geometrically subtle, and evaluation needs apply to a wide variety of conditions with an extremely long tail.
+
+ Additionally:
+
+Analysis and improvement of existing data sources and metrics
+Development of novel approaches to measuring and improving
+Self-driving performance (either generally, or for motion planning specifically)  
+Collaborate with engineers and other data scientists to evaluate and improve core
+Waymo technologies, with a focus on bringing statistical depth, general analytical rigor, and accurate causal interpretation of data.
+
+We'd like you to have:
+
+PhD in statistics, math, or other quantitative area
+Progressive statistics background either in academia or industry
+Data science and system evaluation experience
+Willingness to understand a complex system and its various components
+Experience with tools for manipulating big data
+Experience with R/Python and statistical libraries
+
+It's preferred if you have experience in:
+
+Experience with C++
+Familiarity with Spark/MapReduce
+Training or interest in geometry or classical physics
+
+"
+"Autonomous Vehicle Offensive Security, Red Team","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Security is critical to the development and testing of the self driving car (SDC). It enables engineers to rapidly iterate the subtle consequences of any change to the SDC software.
+In this Autonomous Vehicle Offensive Security role, you will help ensure the highest level of security of the Waymo autonomous vehicles by engaging with all stages of the development lifecycle, from threat analysis to penetration testing. 
+Your goal will be to identify security issues in product designs and/or implementations related to Waymo autonomous vehicles and its connected ecosystem.  
+Your responsibilities will include:
+
+Penetration testing of autonomous vehicle systems
+Collaborating with engineering on security related information during design/development/testing
+Keeping up to date on new vulnerability information and determining its relevance to Waymo
+Work with Waymo engineering teams to help them build security knowledge and resolve security related problems
+Performing security audits on 3rd party products
+Aide in developing security best practices for Waymo engineering
+
+At a minimum weâd like you to have:
+
+5+ years Penetration testing of connected computer systems
+5+ years Reverse Engineering software
+5+ years Software development (in C or C++)
+5+ years Threat modeling
+3+ years of experience in Automotive or Embedded security
+Curious and inventive thinker. Not afraid to try something new
+
+Itâs preferred if you have:
+
+BS/MS degree in Computer Science or related technical field or equivalent practical experience
+3+ years of experience in Software Defined Radio
+3+ years of experience in Machine Learning or Computer Vision
+3+ years of experience in Sensors, Lidar, and Radar
+
+ 
+"
+"Autonomous Vehicle, Security Engineer","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Security is critical to the development and testing of the self driving car (SDC). It enables engineers to rapidly iterate the subtle consequences of any change to the SDC software.
+Role:
+In this Autonomous Vehicle Security role, you will help ensure the highest level of security of the Waymo autonomous vehicles by engaging with all stages of the development lifecycle, from threat analysis to penetration testing. 
+Your goal will be to identify security issues in product designs and/or implementations related to Waymo autonomous vehicles and its connected ecosystem.
+Your responsibilities will include:
+
+Collaborate with engineering on security during design/development/testing
+Develop security related tooling for security and engineering teams
+Perform technical security assessments, code audits and design reviews.
+Assist with technical solutions to mitigate security vulnerabilities.
+Conduct research to identify new attack vectors against Waymo products and services.
+Develop Threat Models using industry best practices
+Generate security requirements for Waymo engineering and suppliers
+
+At a minimum weâd like you to have:
+
+Bachelor's degree in Computer Science, or a related technical field, or equivalent practical experience.
+5+ years of experience in application security and system security.
+5+ years of experience in code auditing
+5+ years of software development experience
+Effective interpersonal and communication skills.
+
+Itâs preferred if you have:
+
+Master's degree in Computer Science or a related technical field.
+Relevant work experience in web application security.
+Software development experience in C++ or Java.
+Embedded Security
+Security of Linux based systems
+Foundation in, and in-depth technical knowledge of, security engineering, computer and network security, authentication, security protocols and applied cryptography.
+Self-motivated and results-oriented.
+Not afraid to try something new.
+
+ 
+"
+Control Engineer,"
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If youâre a software engineer or researcher whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you. 
+In this planner and controls role, youâll:
+
+Build motion planning and decision-making systems for the self-driving vehicles, ensuring that the behavior of our vehicles is safe, smooth, and predictable to other road users
+Build robust solutions to cutting-edge driving problems
+Improve how our vehicles act and react in complex and nuanced situations
+Grow a fundamental understanding of the next driving challenges by analyzing real-world logs collected on our state-of-the-art fleet
+
+Weâd like you to have: 
+
+MS/PHD in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience in at least one of: robotics research in motion planning and control (e.g., trajectory optimization, planning under uncertainty, probabilistic robotics, optimal control, guidance, navigation and control, etc.), data analysis at scale, machine learning at scale
+Experience in data structures and advanced algorithms
+Experience programming in C++ and with robust, safety-critical, efficient code
+Experience solving software problems using geometry and linear algebra
+
+"
+Data Scientist,"
+At Waymo, weâre focused on bringing self-driving technology to the world. Our mission is to make it safe and easy for people and things to move around. Today, our driverless cars are serving our first customers with no drivers behind the wheel. To experience our self-driving technology, see this 360-degree video.
+In this data science role, you will:
+
+Safety evaluation is of fundamental importance to Waymo, and measuring it is subtle.  This role works with a wide variety of teams across the company (onboard software engineering, product, safety, systems engineering) to evaluate the driving and safety performance of Waymo's self driving car. This is based on a wide variety of data from real and simulated driving from Waymoâs self-driving system as well as from external data sources.
+The Planner Team is responsible for ""motion planning"" for the self driving car.  This includes gracefully handling many complex situations involving social interactions (merging, negotiating narrow roads, etc), while dealing with a noisy and uncertain environment. Evaluation of this onboard decision-making system is a complex, open-ended problem with tremendous potential impact. The quality of the road maneuvers we execute is subjective, contextual, and geometrically subtle, and evaluation needs apply to a wide variety of conditions with an extremely long tail.
+
+ Additionally:
+
+Analysis and improvement of existing data sources and metrics
+Development of novel approaches to measuring and improving
+Self-driving performance (either generally, or for motion planning specifically)  
+Collaborate with engineers and other data scientists to evaluate and improve core
+Waymo technologies, with a focus on bringing statistical depth, general analytical rigor, and accurate causal interpretation of data.
+
+We'd like you to have:
+
+PhD in statistics, math, or other quantitative area
+Progressive statistics background either in academia or industry
+Data science and system evaluation experience
+Willingness to understand a complex system and its various components
+Experience with tools for manipulating big data
+Experience with R/Python and statistical libraries
+
+It's preferred if you have experience in:
+
+Experience with C++
+Familiarity with Spark/MapReduce
+Training or interest in geometry or classical physics
+
+"
+"Data Visualization Tools, Full Stack Engineer","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Waymo UX Engineering team is building a team to help our internal users to understand and debug our self-driving software stack. In this role, you will focus on building Web-based tools which present the wealth of data generated by the Self-Driving Car in ways that allow for efficiently diagnosing and solving problems
+We are looking for a passionate engineer with a track record of bringing awesome products to market. You will work on an Android application to control the car features before and during a ride, to inspire trust in the self-driving systems The team works closely with a small cross-functional team of product managers, designers and UX researchers, as well as the vehicle engineers and AI experts to experiment and iterate towards bringing this technology to customers.
+ This position requires experience in three or more of the following:
+
+4+ years of experience in building and shipping a web app from scratch using Googleâs best practices
+C++  
+3D/OpenGL on web platforms.
+Client-server protocols
+Focus on pixel-perfect UI, and strong collaboration with UX designers
+Strong communication skills, being able to collaborate with the wider Waymo team (product managers, designers, vehicle and robotics engineers, and executives)
+
+Minimum qualifications:
+
+BS/MS in Computer Science or related technical field or equivalent practical experience
+
+Preferred qualifications:
+
+Web Front End
+Angular / Typescript
+Passion and experience building tools to make users more productive
+
+ 
+ 
+"
+"Experienced Software Engineer, Behavior Prediction","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and machine learning, while collaborating with hardware and systems engineers. If youâre a software engineer or researcher whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+In this role you will:
+
+Work with world-class experts in the field of autonomous vehicle on software architecture and design, system and module specification, evaluation metrics, specification and implementation of test frameworks and tests
+Optimize software to run robustly under tight run-time constraints
+Work with experts in machine learning to design and implement tools to efficiently generate compact representations of training data for Machine Learning algorithms, and to optimize deep net performance
+Implement user friendly tools to search through data sets, evaluate performance, and analyze evaluation results
+
+Minimum Qualifications:
+
+BS/MS in Computer Science, or equivalent practical experience
+At least 5 years industry experience designing, writing, and maintaining production-level code 
+Solid understanding of data structures, algorithms, parallel programming,  code optimization, and large scale data processing
+Expertise in C++ 
+
+Preferred Qualifications:
+
+Experience writing and maintaining robust safety critical software
+Experience in data analysis and optimizing deep net performance
+Experience writing modular testable software and developing evaluation metrics
+Experience in one or more of Robotics/Machine Learning/Motion Planning
+Experience with TensorFlow
+Experience in Python
+
+"
+"Frontend Software Engineer, Simulation","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Simulation Team enables Waymo to simulate and analyze millions of miles of driving every day. We can recreate, modify, and amplify our real-world experience -- or generate entirely new situations from scratch. Our work is central to the development workflow of the onboard self-driving software team, enabling onboard engineers to rapidly iterate and understand the subtle consequences of any change to the system. As powerful as this system is, however, there are still many open problems to solve and much work ahead of us.
+As a Frontend Software Engineer in the Simulation team, youâll work on the user-facing infrastructure that all of Waymo uses to model and visualize real-world driving. These web frontends are used by every part of Waymo, including SWEs, PMs, Data Scientists, and Research. These tools are a core part of solving almost every self-driving challenge Waymo faces
+In this Frontend Software Engineering role, you'll own user-facing products essential to building the worldâs most experienced driver, such as:
+
+Developing data visualizations that handle vast amounts of data at low latency
+Designing game-engine like tools for scripting simulated agents (e.g. pedestrians, vehicles, cyclists)
+Implementing workflows for developers to evaluate their self-driving car changes
+Collaborate across teams, with Onboard SWEs, Product Managers, Data Science, Operations, and UX
+Engineer solutions with an eye towards quality, performance, and stability
+
+At a minimum we'd like you to have:
+
+A BS or MS in Computer Science or a similar discipline. An equivalent amount of real-life experience is also welcome
+Experience with modern web frameworks (e.g. Angular, Polymer, TypeScript)
+Passionate about infrastructure work: building internal tools, frameworks, and libraries
+Comfortable moving quickly and working directly with customers for feedback
+Excited about working on self-driving cars!
+
+It's preferred if you have:
+
+Experience building developer productivity tools with a high degree of product excellence
+Experience with three.js, or building 3D user interfaces using other frameworks
+Experience communicating and coordinating across teams
+
+"
+"Full Stack Engineer / Backend Engineer, ML Data Infra","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Machine learning is at the core of solving self-driving technology, and data is the rocket fuel of machine learning. The Data Warehouse team, part of the Waymo ML Infra team, focuses on empowering teams at Waymo to leverage the massive amount of data that is critical to training and evaluating state-of-the-art machine learning systems for driving. Some example projects tackled by the team include:
+
+Building web-based data labeling tools with optimized UI/UX to enable Waymoâs labelers to annotate the data efficiently.
+Visualizing the massive amount of unlabeled and labeled data to unlock new insights into Waymoâs datasets.
+Building state-of-art data analysis tools to help ML practitioners understand their datasets & models.
+Building logging & experimentation infrastructure to evaluate the cost & impact of the datasets.
+Designing systems to perform quality control & data validation on the datasets.
+Adding automation to the labeling workflows to improve the overall efficiency and quality.
+
+The team already manages one of the largest labeled datasets in the entire self-driving industry, and further scaling the dataset efficiently is critical to Waymoâs future success. Join us in this ride to the future, and bring self-driving technology to the world together.
+Basic Qualifications:
+
+A BS or MS in Computer Science, similar technical field of study, or equivalent practical experience. 
+Passionate about infrastructure work: building internal tools, frameworks, and libraries.
+Experience with C++, or modern web stack (e.g. Angular with JS/TS).
+
+Bonus qualifications:
+
+Experience with building scalable systems that process huge amounts of data.
+Experience with three.js, or building 3D user interfaces using other frameworks. 
+Experience with data analytics, logging, or experimentations.
+
+ 
+
+ 
+
+    "
+"Machine Learning Engineer, Simulation Agents","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and machine learning, while collaborating with hardware and systems engineers. If youâre a software engineer or researcher whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+In this role, youâll:
+
+Work with a creative team of people who are responsible for ensuring that the behavior of our cars is safe, smooth, and predictable to other road users, which includes gracefully handling many complex situations involving social aspects (merging, negotiating narrow roads, etc), while dealing with noisy, uncertain, and incomplete information.
+Frame the open-ended real-world problems into well-defined ML problems; develop and apply cutting-edge ML approaches (deep learning, reinforcement learning, imitation learning, decision trees, etc) to these problems; scale them to Google-sized data pipelines; and streamline them to run in real-time on the cars.
+Collaborate with other teams, including the ML infrastructure, perception and systems engineering teams, as well as various research teams such as Waymo research, Google Brain, DeepMind and academia.
+
+At a minimum weâd like you to have:
+
+MS/PHD in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience solving problems using Machine Learning with Tensorflow or equivalent tools
+Ability to collaborate within and across teams
+Strong experience programming in C++ with robust and efficient code
+
+Itâs preferred if you have:
+
+Experience specifically with applying Machine Learning to solve motion planning or related robotics problems
+Experience with Reinforcement Learning and/or Learning from Demonstration
+Experience with Deep Learning Models (e.g. RNN/LSTM, CNN, VAE, GAN, etc.)
+
+Competitive Salary Offered
+Opening date: 25 June 2020
+"
+Research Scientist,"
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The mission of the Waymo Research team is to develop machine learning solutions addressing open problems in autonomous driving, towards the goal of the safely operating Waymo vehicles in dozens of cities and under all driving conditions. As part of our work, we also initiate and foster collaborations with other research teams in Alphabet. Research areas that we are currently focusing on include perception, behavior prediction and reinforcement learning.
+ 
+In this Research Scientist role, you will:
+
+Research new machine learning problems, models and algorithms
+Collaborate on deploying these models on the Waymo vehicles
+Initiate and support collaborations with Alphabet researchers on autonomous driving-related research topics
+We expect your scope to grow over time as you become an expert in some of the machine learning research areas above, and youâll be initiating and leading increasingly ambitious new projects
+
+ 
+At a minimum weâd like you to have:
+
+Ph.D. in Computer Science or related quantitative field, or B.S./M.S. in Computer Science or related quantitative field with 5+ years of relevant experience
+Experience as a self-directed engineer / research scientist who excels at driving new research ideas from conception and experimentation to productionization
+Strong knowledge of machine learning; experience with machine learning research and the experiment-launch-iterate cycle in one or more projects
+Outstanding technical leadership and communication skills to lead new research areas and multi-team collaborations
+Strong programming skills in C++ or Python
+Experience with distributed computing (MapReduce, Flume, etc)
+
+Itâs preferred if you have:
+
+Expertise in one or more of the following areas is a plus: deep learning, computer vision, robotics, reinforcement learning, behavior prediction, SLAM
+Research experience and publications in machine learning or related fields is a plus
+Experience of using TensorFlow or similar large-scale machine learning systems in production is a plus.
+Tech Lead experience is a plus
+
+"
+Research Scientist,"
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The mission of the Waymo Research team is to develop machine learning solutions addressing open problems in autonomous driving, towards the goal of the safely operating Waymo vehicles in dozens of cities and under all driving conditions. As part of our work, we also initiate and foster collaborations with other research teams in Alphabet. Research areas that we are currently focusing on include perception, behavior prediction and reinforcement learning.
+In this Research Scientist role, you will:
+
+Research new machine learning problems, models and algorithms
+Collaborate on deploying these models on the Waymo vehicles
+Initiate and support collaborations with Alphabet researchers on autonomous driving-related research topics
+We expect your scope to grow over time as you become an expert in some of the machine learning research areas above, and youâll be initiating and leading increasingly ambitious new projects
+
+At a minimum weâd like you to have:
+
+Ph.D. in Computer Science or related quantitative field, or B.S./M.S. in Computer Science or related quantitative field with 5+ years of relevant experience
+Experience as a self-directed engineer / research scientist who excels at driving new research ideas from conception and experimentation to productionization
+Strong knowledge of machine learning; experience with machine learning research and the experiment-launch-iterate cycle in one or more projects
+Outstanding technical leadership and communication skills to lead new research areas and multi-team collaborations
+Strong programming skills in C++ or Python
+
+Itâs preferred if you have:
+
+Expertise in one or more of the following areas is a plus: deep learning, robotics, reinforcement learning, imitation learning, and optimal control.
+Research experience and publications in machine learning or related fields is a plus
+Experience with distributed computing (MapReduce, Flume, etc)
+Experience of using TensorFlow or similar large-scale machine learning systems in production is a plus.
+Tech Lead experience is a plus
+
+ 
+Competitive Salary Offered
+Opening date: 25 June 2020
+"
+"Robotics Software Engineer, Behavior Prediction","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If youâre a software engineer or researcher whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you. 
+In this planner and controls role, youâll:
+
+Build motion planning and decision-making systems for the self-driving vehicles, ensuring that the behavior of our vehicles is safe, smooth, and predictable to other road users
+Build robust solutions to cutting-edge driving problems
+Improve how our vehicles act and react in complex and nuanced situations
+Grow a fundamental understanding of the next driving challenges by analyzing real-world logs collected on our state-of-the-art fleet
+
+Weâd like you to have: 
+
+MS/PHD in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience in at least one of: robotics research in motion planning and control (e.g., trajectory optimization, planning under uncertainty, probabilistic robotics, optimal control, guidance, navigation and control, etc.), data analysis at scale, machine learning at scale
+Experience in data structures and advanced algorithms
+Experience programming in C++ and with robust, safety-critical, efficient code
+Experience solving software problems using geometry and linear algebra
+
+"
+Software Engineer - Inertial Navigation,"
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Hardware Engineering is a diverse, innovative, and collaborative group of electrical, mechanical, reliability, software and vehicle engineers. We design, build, and perfect the products which are the eyes and ears of Waymo's self-driving systems, and integrate those products into vehicle platforms. We're seeking curious and talented teammates to keep us moving in the right direction.
+The Positioning team at Waymo is responsible for determining the location, orientation and velocity of the car. We do everything from selecting IMUâs and writing firmware, to implementing estimation algorithms like Kalman and particle filters, to analyzing safety and redundancy system architectures.
+In this role, you'll:
+
+Develop and run large scale optimization and estimation routines. Replay and simulate using existing log data to characterize performance, tune parameters, identify failures and provide performance guarantees
+Integrate sensors into pose estimation and inertial navigation algorithms for deployment on the self driving car. Examples include Kalman filters, EKF, UKF, particle filters, etc.
+Investigate sensor and filter performance issues. Debug through replay, simulation, residual-analysis and on-car testing
+
+At a minimum weâd like you to have:
+
+PhD or M.S. degree with equivalent experience in fields such as estimation, optimization, statistics, modeling, dynamics, control, etc.
+5+ years of C++ programming experience
+
+Itâs preferred if you have:
+
+Domain knowledge and implementation experience with Kalman filtering, inertial sensors, and sensor fusion. Real world experience with system integration and deployment
+Experience with real-time robot/vehicle/drone positioning and localization
+System dynamics and kinematics modeling for ground vehicles
+
+"
+"Software Engineer - Optimization, Benchmark and Tooling, Compute ","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Hardware Engineering is a diverse, innovative, and collaborative group of electrical, mechanical, reliability, software and vehicle engineers. We design, build, and perfect the products which are the eyes and ears of Waymo's self-driving systems, and integrate those products into vehicle platforms. We're seeking curious and talented teammates to keep us moving in the right direction.
+In this Software Engineering role, you'll:
+
+Collaborate with engineers from different teams such as planning and perception to benchmark and characterize our compute workload
+Create and deploy low overhead tools to our fleet to further our understanding of the dynamics of our systems
+Use this understanding of our workload to optimize the performance of our systems
+
+At a minimum weâd like you to have:
+
+BS degree in Computer Science or equivalent practical experience
+5+ years of industry experience with C/C++ and while working on performance critical real-time systems
+
+Itâs preferred if you have:
+
+Extensive knowledge of computer architecture
+Experience with a diverse set of hardware such as CPUs, GPUs, DSPs, Neural network accelerators etc
+Experience with benchmarking and performance optimization of complex systems
+
+"
+"Software Engineer, Analysis Infrastructure","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The data infrastructure and analysis team owns data, solution, infrastructure and tooling for data driven decision making across Waymo. Our scope includes data processing infrastructure and pipelines, and data warehouse empowering reporting and business analysis.
+Your work will help steer potentially multi-billion dollar business, and you will be a leading member of a growing team. You will have high-visibility within a cross-function (product, finance, marketing, legal, partnerships, operations, etc.) org, and you will develop new skills in the areas of Analytics, Growth, Big Data and Data Science. 
+ 
+This position requires experience in three or more of the following:
+ Key skills/attributes desired:
+* A strong business focus: Our users are other teams and executives within Waymo
+* Passion and experience on large-scale data infrastructure, including storage systems, query engines, and pipelines.
+* Experience with C++, Python, GoogleSQL, Colab
+* Creativity: High-threshold for experimentation and project exploration
+* Self-driven, passion to work in a fast-paced environment.
+ 
+Minimum qualifications:
+
+BS/MS in Computer Science or related technical field or equivalent practical experience
+
+Preferred qualifications:
+
+PhD with 3 years of experience in database, query/retrieval engines, or analytical frameworks.
+Experience with and/or knowledge on data science/statistics.
+
+"
+"Software Engineer, Android Platform OS and Infotainment ","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The UX Engineering team is hiring to help build out the Android OS and entertainment media layers and verticals of our in-car software stack. In this role, you will focus on developing the in-car UX operating system, system services and media stack, as well as user-facing entertainment solutions.
+We are looking for a passionate engineer with a track record of bringing awesome products to market. You will work on an Android device to deliver a rock-solid platform on which we deliver the in-car UX and media experience. The team works closely with a small cross-functional team of product managers, hardware engineers, designers and UX researchers, as well as the vehicle engineers and AI experts to experiment and iterate towards bringing this technology to customers.
+This position requires experience in three or more of the following:
+4+ years of experience in building and shipping Android solutions
+
+Android platform
+Experience with shipping hardware/devices running Android
+Android system services and/or applications
+Client-server protocols
+Focus on platform stability and performance
+Strong communication skills, being able to collaborate with the wider Waymo team (product managers, hardware engineers, designers, vehicle and robotics engineers, and executives)
+
+Minimum qualifications:
+
+BS/MS in Computer Science or related technical field or equivalent practical experience
+
+Preferred qualifications:
+
+Experience with C++ on Android
+Experience with novel Android devices, developing new system services and/or Android applications
+Experience with and/or knowledge of full-stack media and entertainment solutions
+Experience with chromecast, audio protocols, or other media-specific technologies
+
+
+"
+"Software Engineer, Behavior & Planning, Trucking","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+As Waymo is becoming a multi-product company, Trucking is our second largest opportunity and will see massive growth in 2020. We believe that commercial trucking, the backbone of our economy, stands to reap untold benefits by deploying autonomous trucks, particularly during long-haul stretches. Roads will be safer. Goods will be cheaper. Truckers will be called upon to use their skills in new ways while the truck itself becomes a trusted navigation partner. 
+In this role, you'll be working with a small but rapidly growing team, benefitting from shared technology of the greater Waymo and Alphabet organizations. Our team is made up of robotics specialists from some of the leading technology companies of our time - with deep expertise in artificial intelligence, machine learning, and real-world deployment of advanced technology.
+Responsibilities:
+
+Build robust solutions to cutting-edge driving problems creatively and collaboratively
+Improve how the truck acts and reacts in complex and nuanced situations
+Grow a fundamental understanding of the next driving challenges by analyzing real-world data collected on our state-of-the-art fleet
+Work cross-functionally across Waymoâs Core Planning, Research and Simulation teams to drive new features to completion
+
+Minimum Qualifications:
+
+MS degree in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience in at least one of: robotics research in motion planning and control (e.g., trajectory optimization, planning under uncertainty, probabilistic robotics, optimal control, guidance, navigation and control, etc.), data analysis at scale, machine learning at scale
+Experience in data structures and advanced algorithms
+Experience programming in C++
+
+Preferred Qualifications:
+
+Experience solving software problems using geometry and linear algebra
+Experience writing robust, safety-critical, efficient code
+Experience optimizing highly performant C++ code
+Experience designing complex software systems and interface
+
+"
+"Software Engineer, Behavior Prediction, Deep Learning","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If youâre a software engineer whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+In this role, you will:
+
+Find new ways to apply deep learning to predict the future behavior of other road users
+Creatively and collaboratively build new deep learning models that can predict the future behavior of other road users in real-time
+Develop efficient Deep Learning architectures that can run in real-time
+Grow a fundamental understanding of the next prediction challenges by analyzing real-world logs collected on our state-of-the-art fleet
+
+Minimum Qualifications:
+
+PhD in Computer Science, Machine Learning, Robotics, similar technical field of study, or equivalent practical experience
+Experience in applied Machine Learning including data collection, analysis and feature engineering
+Experience in Deep Learning research
+Experience with TensorFlow
+Experience programming in Python/C++
+
+Preferred Qualifications:
+
+Experience in applying ML for control or planning problems (e.g. Imitation Learning, Behavior Prediction, Reinforcement Learning)
+Experience with deploying Deep Learning models for real-time applications, or other resource constrained setting
+Experience with a wide variety of Deep Learning Models (e.g. LSTM, RNN, CNN, VAE, GAN, etc.)
+
+"
+"Software Engineer, Evaluation, Trucking","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+As Waymo is becoming a multi-product company, Trucking is our second largest opportunity and will see massive growth in 2020. We believe that commercial trucking, the backbone of our economy, stands to reap untold benefits by deploying autonomous trucks, particularly during long-haul stretches. Roads will be safer. Goods will be cheaper. Truckers will be called upon to use their skills in new ways while the truck itself becomes a trusted navigation partner. 
+In this role, you'll be working with a small but rapidly growing team, benefitting from shared technology of the greater Waymo and Alphabet organizations. Our team is made up of robotics specialists from some of the leading technology companies of our time - with deep expertise in artificial intelligence, machine learning, and real-world deployment of advanced technology.
+Responsibilities:
+
+Build robust solutions to cutting-edge driving problems creatively and collaboratively
+Improve how the truck acts and reacts in complex and nuanced situations
+Grow a fundamental understanding of the next driving challenges by analyzing real-world data collected on our state-of-the-art fleet
+Work cross-functionally across Waymoâs Core Planning, Research and Simulation teams to drive new features to completion
+
+Minimum Qualifications:
+
+MS degree in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience in at least one of: robotics research in motion planning and control (e.g., trajectory optimization, planning under uncertainty, probabilistic robotics, optimal control, guidance, navigation and control, etc.), data analysis at scale, machine learning at scale
+Experience in data structures and advanced algorithms
+Experience programming in C++
+
+Preferred Qualifications:
+
+Experience solving software problems using geometry and linear algebra
+Experience writing robust, safety-critical, efficient code
+Experience optimizing highly performant C++ code
+Experience designing complex software systems and interface
+
+"
+"Software Engineer, Lidar Systems","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Hardware Engineering is a diverse, innovative, and collaborative group of electrical, mechanical, reliability, software and vehicle engineers. We design, build, and perfect the products which are the eyes and ears of Waymo's self-driving systems, and integrate those products into vehicle platforms. We're seeking curious and talented teammates to keep us moving in the right direction.
+In this role, you'll:
+
+Design and implement data and control flow needed to integrate new LIDAR into the self driving car
+Develop, deploy, and optimize custom hardware drivers 
+Develop novel calibration processes involving multiple sensors and actuation stages in the loop
+Analyze data collected from sensor systems, and develop tools to help do so
+Support sensor manufacturing by customizing existing systems to improve test integration, assembly tracking, and reporting pipelines
+Design core blocks for FPGAs
+
+At a minimum weâd like you to have:
+
+BS or MS in Computer Science, Physics, or related field or equivalent experience
+4+ years of C++ or Python programming experience
+Proficient in numerical analysis and data visualization with tools such as Matlab, NumPy, or Matplotlib
+
+Itâs preferred if you have:
+
+Phd in Computer Science, Physics, or related field or research experience
+5-10 years of C++ or Python programming experience
+Experience with communication interfaces (I2C, RS232, USB, Ethernet)
+Comfort in C++ programming if Python is your primary coding language
+Experience with RTL design, System Verilog, and embedded systems
+Familiarity with HLS for FPGA
+
+"
+"Software Engineer, Machine Learning, Planner/Behavior Prediction","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and machine learning, while collaborating with hardware and systems engineers. If youâre a software engineer or researcher whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+In this role, youâll:
+
+Work with a creative team of people who are responsible for ensuring that the behavior of our cars is safe, smooth, and predictable to other road users, which includes gracefully handling many complex situations involving social aspects (merging, negotiating narrow roads, etc), while dealing with noisy, uncertain, and incomplete information.
+Frame the open-ended real-world problems into well-defined ML problems; develop and apply cutting-edge ML approaches (deep learning, reinforcement learning, imitation learning, decision trees, etc) to these problems; scale them to Google-sized data pipelines; and streamline them to run in real-time on the cars.
+Collaborate with other teams, including the ML infrastructure, perception and systems engineering teams, as well as various research teams such as Waymo research, Google Brain, DeepMind and academia.
+
+At a minimum weâd like you to have:
+
+MS/PHD in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience solving problems using Machine Learning with Tensorflow or equivalent tools
+Ability to collaborate within and across teams
+Strong experience programming in C++ with robust and efficient code
+
+Itâs preferred if you have:
+
+
+Experience specifically with applying Machine Learning to solve motion planning or related robotics problems
+
+
+Experience with Deep Learning Models (e.g. RNN/LSTM, CNN, VAE, GAN, etc.)
+
+
+
+
+"
+"Software Engineer, Machine Learning, Research","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and machine learning, while collaborating with hardware and systems engineers. If youâre a software engineer or researcher whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+In this role, youâll:
+
+Work with a creative team of people who are responsible for ensuring that the behavior of our cars is safe, smooth, and predictable to other road users, which includes gracefully handling many complex situations involving social aspects (merging, negotiating narrow roads, etc), while dealing with noisy, uncertain, and incomplete information.
+Frame the open-ended real-world problems into well-defined ML problems; develop and apply cutting-edge ML approaches (deep learning, reinforcement learning, imitation learning, decision trees, etc) to these problems; scale them to Google-sized data pipelines; and streamline them to run in real-time on the cars.
+Collaborate with other teams, including the ML infrastructure, perception and systems engineering teams, as well as various research teams such as Waymo research, Google Brain, DeepMind and academia.
+
+At a minimum weâd like you to have:
+
+MS/PHD in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience solving problems using Machine Learning with Tensorflow or equivalent tools
+Ability to collaborate within and across teams
+Strong experience programming in C++ with robust and efficient code
+
+Itâs preferred if you have:
+
+
+Experience specifically with applying Machine Learning to solve motion planning or related robotics problems
+
+
+Experience with Deep Learning Models (e.g. RNN/LSTM, CNN, VAE, GAN, etc.)
+
+
+
+
+"
+"Software Engineer, ML Compiler/Performance/Tooling, Machine Learning Platform","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The ML Platform team at Waymo provides a set of tools and technologies to support and automate the lifecycle of the machine learning workflow, including feature and experiment management, and model development, debugging & evaluation, deployment, and monitoring. These efforts have resulted in making machine learning more accessible to teams at Waymo, including Perception, Behavior Prediction, Planner, Routing, Maps and Research, ensuring greater degrees of consistency and repeatability, and addressing the âlast mileâ of getting models into production and managing them once they are in place. We work hand in hand with machine learning experts in all parts of the company as well as our collaborators across Alphabet.
+We are looking for engineers with strong ML compiler, runtime, accelerator, embedded systems or performance background to help us improve compute performance on our car and build the software stack for the next-gen accelerator. Non-exhaustive examples of the types of work you will work on:
+
+Collaborate with hardware architects, software engineers and ML practitioners to understand the hardware architecture/requirements as well as new research directions to bridge the gap between ML research and hardware
+Architect and develop the compiler for Waymoâs next-gen accelerator to power inference of deep nets and compute workloads on to this architecture with an emphasis on performance
+ML performance tuning through hardware/software co-play
+Build tools to analyze workloads and improve performance
+
+If you have any one of the skills below, please feel free to contact us!
+
+Passion for developing and optimizing compilers for modern architectures (MLIR etc.); Working knowledge of compiler architecture front-end and middle-end optimizations, scheduling, register allocation, and back-end code generation
+Performance analysis and optimization
+Embedded / real time / robotics systems
+Experience with implementing neural networks inference and compute workloads on dedicated SOC or GPU
+ML acceleration ( compression, quantization, pruning etc.) 
+
+"
+"Software Engineer, ML Performance, Compute","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Hardware Engineering is a diverse, innovative, and collaborative group of electrical, mechanical, reliability, software and vehicle engineers. We design, build, and perfect the products which are the eyes and ears of Waymo's self-driving systems, and integrate those products into vehicle platforms. We're seeking curious and talented teammates to keep us moving in the right direction.
+In this role, you'll:
+
+Work with software teams on improving the latency and throughput of machine learning and deep-net workloads on onboard hardware
+Model, benchmark, and optimize neural network performance on specialized inference hardware. Overcome hardware utilization bottlenecks through software/hardware codesign
+Guide the development of future hardware solutions tailored to meet the needs of Waymoâs unique machine learning requirements
+
+At a minimum weâd like you to have:
+
+BS degree in Computer Science/Electrical Engineering or equivalent practical experience
+3+ years of industry experience optimizing neural network performance on specialized hardware
+Knowledge of computer architecture, compilers, and neural network performance characteristics
+Experience optimizing and analyzing linear algebra routines used in deep learning or otherwise
+
+"
+"Software Engineer, Onboard Infrastructure - Android System Software","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Waymo Onboard Infrastructure team is responsible for low-level software and infrastructure on various components of the Waymo self-driving system.  The teamâs scope covers everything from low-level system software to high-bandwidth data logging, IPC (low-latency and high-throughput), performance analysis, full-system debugging, etc. We work closely with the Hardware, Sensor, Perception, Behavior/Planning and Machine-Learning teams to build the most performant and low-latency self-driving solution in the industry.
+We are looking for strong Software Engineers to develop and deploy Android System Software and firmware on a high-end Infotainment platform based on Android Auto. This device aims to inspire trust in the self-driving system by visualizing the sensor data and car actions in a meaningful and beautiful way.
+In this Systems Software Engineering role, you will:
+
+Integrate and port SoC Android BSP to Waymo hardware platforms
+Bring-up new hardware device(s) to run Android OS, working with SoC vendors and other partners
+Work with the Vehicle Integration team to enable needed functionality in Android-based devices (e.g. rear-view camera, multiple displays, etc.)
+Develop, review, port, test, and debug Linux device drivers and Android HAL implementations
+Ensure the stability and robustness of the System Software through production and launch
+Work effectively across a variety of engineering teams and SoC partners to resolve issues
+Design, develop, test, deploy, maintain and improve software.
+Manage individual project priorities, deadlines and deliverables.
+Improve the quality, functionality and security of the platform and devices
+
+At a minimum weâd like you to have: 
+
+BA/BS degree in Computer Science, Computer Engineering or relevant technical field or equivalent practical experience
+5+ years of relevant work experience.
+Development experience within embedded systems/firmware design
+Experience coding in C/C++
+Experience with Linux kernel and device driver development
+Experience in dealing with complex systems and codebases (HALs, sub-systems, etc)
+Experience bringing up Android devices
+Experience with Android system software and Android HALs
+
+Itâs preferred if you have:
+
+MS or PhD degree in Computer Science, Computer Engineering, Electrical Engineering or related field
+Experience with ARM SoCs, Linux Kernel and Embedded Software
+Experience with working with multiple types of industry partners (CM, ODM, OEM, ISV, etc.)
+Working knowledge of at least one of the following technologies: Ethernet AVB, Audio HW Codecs, A/V processing (e.g. DSP), Display/Camera serializer/deserializers, Secure Boot
+Experience with common peripheral bus technologies including SPI, I2C, UART, etc.
+Knowledge of one or more of the following: Microcontrollers, SoC, device drivers, hardware bringup, power management, ARM processors, performance optimization, bootloading, hardware/software integration.
+Experience with Android frameworks
+Motivated with an inclination to take on complex and ambiguous problems
+
+"
+"Software Engineer, Onboard Infrastructure - HIL Real-time Simulation","
+The Waymo Onboard Infrastructure team is responsible for low-level software and infrastructure on various components of the Waymo self-driving system. The teamâs scope covers everything from low-level system software to high-bandwidth data logging, IPC (low-latency and high-throughput), performance analysis, full-system debugging, etc. We work closely with the Hardware, Sensor, Perception, Behavior/Planning and Machine-Learning teams to build the most performant and low-latency self-driving solution in the industry.
+We are looking for a generalist software engineer to help develop our hardware-in-the-loop simulation tool. Simrack tests self-driving software by scheduling it on rack-mounted instances of our custom compute platform.
+Waymo uses real-world driving and cloud-based simulation to improve the driving quality of our software. When it comes to understanding and improving real-time performance and latency, weâve found thereâs no substitute for this form of hardware-in-the-loop testing. Engineers around the company use simarck as their primary tool for iterating on performance improvements as well as getting early feedback about their designs prior to driving on the roads. It has also become a critical piece of our release process to ensure that regressions are found quickly.
+You will work closely with many teams across the Software organization (e.g. Planning, Perception) as well as Release Engineering, Compute Hardware, Data Analytics, and Offboard Infrastructure teams. You will work to add support for HIL simulation of new hardware platforms including new accelerators, sensors (LIDARs, cameras, radars, etc.). You will work on improving simulation fidelity to better correlate performance with real vehicles.
+In this Systems Software Engineering role, you will:
+
+Architect, develop and maintain industry-leading real-time simulation infrastructure for self-driving systems
+Integrate sensor data decode and replay into simulation framework to accelerate speed of development for partnering software teams.
+Automate test infrastructure for regression testing and culprit finding
+Add functionality into the HIL platform and API that other teams (e.g. Perception, Planner, ML Infra) will use to automate their software testing
+Design innovative solutions to problems that normally rely on specialized hardware in the vehicle.
+
+At a minimum weâd like you to have: 
+
+BA/BS degree in Computer Science, Computer Engineering or relevant technical field or equivalent practical experience
+4+ years of relevant work experience.
+Experience with C++
+Experience in a highly-concurrent, multi-processor, and multi-threaded environment.
+Advanced software architecture, design, and development skills
+Advanced problem-solving and debugging skills
+
+Itâs preferred if you have:
+
+Experience with Linux Operating system
+Knowledge of common approaches to building simulation systems (prior data replay, scheduling events, time management, etc.)
+Hands-on experience (or general comfort) with working on prototype hardware.
+Experience with analyzing and optimizing software performance at various levels of the stack.
+
+"
+"Software Engineer, Onboard Infrastructure - System Software","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+In this Systems Software Engineering role, you will:
+
+Work on the core, low-level infrastructure software of the self-driving system
+Work on Linux-based Operating System (may include kernel modifications) for one or more devices in the vehicle
+Collaborate with other Onboard Software teams to build low-level libraries and interfaces (IPC, logging, etc) with emphasis on low-latency
+Design, implement, and employ performance analysis tools to improve resource (GPU, CPU, accelerator) utilization, lower latency, and resolve system-level bottlenecks
+Collaborate cross functionally with hardware and sensor engineering teams to enable the use of new components/devices on the self-driving vehicles (e.g. sensors, hardware accelerators)
+Use your expertise to debug hard-to-reproduce whole-system problems
+
+At a minimum weâd like you to have:
+
+BS in CS, or related field
+Excellent skills in C and/or C++
+5+ years of knowledge of Unix/Linux environments
+5+ years of Excellent debugging skills
+
+Itâs preferred if you have:
+
+Linux kernel development experience
+Knowledge of TCP/IP and network programming
+Skills in scripting languages, particularly Python and shell
+Previous experience with BIOS (EFI, coreboot) 
+Previous experience with Yocto 
+Previous experience with Android OS bringup 
+
+"
+"Software Engineer, Perception - Computer Vision","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Perception team at Waymo develops cutting-edge technologies and machine learning models to enable our self-driving cars to make sense of the world. This requires detection, recognition, tracking and understanding of all relevant objects in the surrounding of the vehicle. It is vital to perform these tasks precisely for safe navigation in complex traffic scenarios and such level of precision is only possible by relying on a diverse set of sensors including LIDARs, cameras and radars. 
+We are looking for researchers and software engineers who are passionate about developing computer vision and machine learning techniques for the perception systems on our self-driving cars, and have an incessant drive to improve the performance of our technology stack. You will be part of a creative team of engineers and researchers who solve similar challenging problems and help advance our state of the art perception system. 
+ 
+In this role, you will
+
+Investigate and develop computer vision algorithms and ML models for the perception system.
+Work on deployment of these models on a large fleet of Waymo vehicles.
+Evaluate and understand the challenges that need to be tackled to have a safe and comfortable experience in our vehicles.
+
+At a minimum weâd like you to have
+
+B.Sc. in Computer Science, Electrical Engineering, Mathematics or a related field.
+Hands-on experience in computer vision and machine learning projects (2+ years).
+Strong C++ and/or Python programming skills.
+
+Itâs preferred if you have
+
+M.Sc. or Ph.D. in computer vision, machine learning, or a related field.
+Extensive experience in deep learning.
+Industry research or production experience.
+
+ 
+"
+"Software Engineer, Perception - Computer Vision / ML - Seattle area, WA","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Perception team at Waymo Seattle develops cutting-edge technologies and machine learning models to enable our self-driving cars to make sense of the world. This requires detection, recognition, tracking and understanding of all relevant objects in the surrounding of the vehicle. It is vital to perform these tasks precisely for safe navigation in complex traffic scenarios and such level of precision is only possible by relying on a diverse set of sensors including LIDARs, cameras and radars.
+We are looking for researchers and software engineers in the Seattle area who are passionate about developing Computer Vision and Machine Learning techniques for the perception systems on our self-driving cars, and have an incessant drive to improve the performance of our technology stack. You will be part of a creative team of engineers and researchers who solve similar challenging problems and help advance our state of the art perception system.
+In this role you'll:
+
+Investigate and develop Computer Vision algorithms and ML models for the perception system.
+Work on deployment of these models on a large fleet of Waymo vehicles.
+Evaluate and understand the challenges that need to be tackled to have a safe and comfortable experience in our vehicles.
+
+Required qualifications:
+
+B.Sc. in Computer Science, Electrical Engineering, Mathematics or a related field.
+Hands-on experience in Computer Vision, Computer Graphics, or Machine Learning projects (2+ years).
+Strong C++ and/or Python programming skills.
+
+Bonus qualifications:
+
+PhD or MsC in Computer Vision, Machine Learning, Computer Graphics or a related field.
+Extensive experience in deep learning.
+Industry research or production experience.
+
+"
+"Software Engineer, Perception Infrastructure","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Perception infrastructure involves both onboard and offboard systems. The onboard perception system runs on the self-driving car. It is an extremely high functionality and high performance real-time system. The onboard perception system processes all the sensor inputs of lidars, cameras, radars, and audio. One core design principle of the perception onboard system is to be ML effective, both in terms of running ML models onboard with very low latency, as well as integrating all the ML models into a cohesive system.
+The offboard perception infrastructure supports engineering development of the onboard system. It sits on the interface of machine learning and systems. It supports our expansive ML development including data extraction, evaluation, debugging / visualization, data mining, etc.. It also supports systems development including testing, performance analysis, deployment, etc. Waymo has a massive amount of sensor data logged from real-world driving, which is key to our engineering development. Robust and scalable perception offboard infrastructure is at the core of engineering excellence. 
+ 
+In this role, depending on preference and role fit, you will
+
+
+Work on the onboard perception system, where youâll get to build an overall picture of the entire perception stack, conduct latency measurements and analysis, optimize system performance, make software design changes as needed, etc. Or,
+
+
+Work on the offboard perception system, where youâll learn the nitty-gritty details of the infrastructure to build ML models that actually works in the real world, design and implement ML/perception infrastructure to enable Waymo scale to many more cities and thousands of cars, directly interact with and enable many ML developers to achieve cutting-edge self-driving perception, etc. Or,
+
+
+Work on both of the above.
+
+
+ 
+Weâd like you to have:
+
+
+Strong in C++ and system design.
+
+
+Excited about building solutions to complex problems.
+
+
+Willingness to get your hands dirty and go full stack if need be.
+
+
+Experience in robotics or machine learning.
+
+
+ 
+Ideally, you also have:
+
+
+Experience in deploying a large production system with many ML models.
+
+
+Experience in optimizing high-performance systems.
+
+
+"
+"Software Engineer, Perception Pipeline Performance","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Waymo has deployed a fleet of autonomous vehicles that generate vast amounts of data in a variety of sensing modalities. The Perception team at Waymo is responsible for the broad recognition problems autonomous vehicles face. In this capacity, our team builds the software infrastructure and models necessary to use the acquired sensor data, to recognize objects, and power our fleet of self-driving cars.
+Within Perception, the Sensing teamâs job is to make sure that sensors âjust workâ for the entire self driving car software stack. We make sure we have the right sensors, that they are properly calibrated and validated and that the software pipeline that streams sensor data into other modules of our onboard system is optimized for performance and usability. We design APIs that abstract away hardware details and provide convenient and fast access to the GBs of information that flow in from the physical sensors. We are responsible for the initial processing of the raw sensor signals including combining data from multiple sources, filtering and fault detection. In addition we use the sensor data to derive compact, higher level information about the environment around the self-driving car that feeds into the Perception and Planning models which in turn dictate the carâs responses.
+We are looking to expand our team with like-minded, experienced software engineers with a passion for solving hard problems and developing highly performant, modular systems that expose clean and flexible APIs. In that role youâll be collaborating with both our sensor hardware team and the engineers working on Perception and Planning across the organization. Youâll be expected to contribute to the overall architecture, implementation and ongoing maintenance of our codebase in addition to developing novel algorithms to solve challenging data and compute heavy problems. Working in our team youâll be exposed to state-of-the-art sensors and high-performance sensor data pipelines, learn how to build robust solutions to cutting edge problems, and help improve how our vehicles use their sensors to perceive the world around them.
+We'd like you to have:
+
+BA/BS degree in Computer Science, Computer Engineering or relevant technical field or equivalent practical experience.
+4+ years of relevant work experience.
+Strong in C++ and system design skills
+
+Bonus qualifications in one of the following:
+
+Experience developing in a highly-concurrent, multi-processor, and multi-threaded environment.
+Experience with heterogeneous computing and GPGPU programming (CUDA, compute shaders, etc)
+Experience with low-level optimizations including SIMD programming
+Experience investigating and resolving performance bottlenecks (profiling, tracing)
+Strong grasp 3D geometry and Vector math
+Previous experience with autonomous driving and ML a plus but not required
+
+"
+"Software Engineer, Perception, Robotics","
+Software Engineer, Perception - Robotics
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Perception team at Waymo develops cutting-edge technologies and machine learning models to enable our self-driving cars to make sense of the world. This requires detection, recognition, tracking and understanding of all relevant objects in the surrounding of the vehicle. It is vital to perform these tasks precisely for safe navigation in complex traffic scenarios and such level of precision is only possible by relying on a diverse set of sensors including LIDARs, cameras and radars.
+We are looking for software engineers and roboticists who are passionate about evolving the safety-critical perception system for self-driving cars beyond the state of the art. 
+In this role, you will 
+
+Collaborate closely with a creative team of engineers and researchers.
+Analyze dependencies and interactions in a complex robotic system and creatively overcome limitations of individual components and sensor modalities through orchestration, fusion or design of missing links.
+Prototype and deploy robust and reliable solutions to cutting-edge perception problems.
+Gain a deep understanding of not only the self-driving technology, but also its real-world challenges and how to convert such technology into real products.
+
+Weâd like you to have at a minimum
+
+B.Sc. in Computer Science, Electrical Engineering, Mathematics or a related field.
+Hands-on experience in robotics or autonomous systems projects (2+ years).
+Strong algorithm and C++ programming skills.
+Excitement to dive into complex systems and improve them.
+
+Itâs preferred if you have
+
+M.Sc. or Ph.D. in robotics, autonomous systems or a related field.
+Extensive experience in robotics/autonomous systems.
+Industry research or production experience.
+
+"
+"Software Engineer, Perception, Trucking","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+As Waymo becomes a multi-product company, Trucking will be our second largest opportunity and will see massive growth in 2020 as we tackle the unique challenges that it presents. We believe that commercial trucking, the backbone of our economy, stands to reap untold benefits by deploying autonomous trucks, particularly during long-haul stretches. Roads will be safer. Goods will be cheaper. Truckers will be called upon to use their skills in new ways while the truck itself becomes a trusted navigation partner. 
+In this role, you'll be working with a small but rapidly growing team, benefitting from shared technology and expertise of the greater Waymo and Alphabet organizations. We are looking for software engineers and roboticists who are passionate about evolving the safety-critical perception system for self-driving trucks beyond the state of the art.
+Responsibilities:
+
+Adapt and extend existing perception systems for deployment on a fleet of Waymo trucks, while creating all-new approaches where needed
+Evaluate and understand the cross-functional, trucking-specific challenges that need to be tackled to operate a large fleet of autonomous trucks safely and efficiently
+Prototype and deploy robust and reliable solutions to cutting-edge driving problems
+Improve how our vehicles act and react in complex, nuanced, and rare situations
+
+Minimum Qualifications:
+
+BS in Robotics, Computer Vision, Machine Learning, similar technical field of study, or equivalent practical experience
+Experience in programming in C++ and with robust, safety-critical, efficient code
+Experience in at least one of: robotics, machine learning for perception, computer vision, LIDAR, autonomous systems, sensor fusion, pattern recognition, localization and mapping
+Experience in data structures and advanced algorithms
+
+Preferred Qualifications:
+
+M.Sc. or Ph.D. in robotics, computer vision, autonomous systems or a related field
+Extensive experience in robotics/autonomous systems
+Experience with radar
+Industry research or production experience
+
+"
+"Software Engineer, Planner & Controls","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If youâre a software engineer or researcher whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you. 
+In this planner and controls role, youâll:
+
+Build motion planning and decision-making systems for the self-driving vehicles, ensuring that the behavior of our vehicles is safe, smooth, and predictable to other road users
+Build robust solutions to cutting-edge driving problems
+Improve how our vehicles act and react in complex and nuanced situations
+Grow a fundamental understanding of the next driving challenges by analyzing real-world logs collected on our state-of-the-art fleet
+
+Weâd like you to have: 
+
+BS/MS/PHD in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience in at least one of: robotics research in motion planning and control (e.g., trajectory optimization, planning under uncertainty, probabilistic robotics, optimal control, guidance, navigation and control, etc.), data analysis at scale, machine learning at scale
+Experience in data structures and advanced algorithms
+Experience programming in C++ and with robust, safety-critical, efficient code
+Experience solving software problems using geometry and linear algebra
+
+"
+"Software Engineer, Planner Evaluation","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+At Waymo, weâre focused on bringing self-driving technology to the world. Our mission is to make it safe and easy for people and things to move around. Today, our driverless cars are serving our first customers with no drivers behind the wheel. To experience our self-driving technology, see this 360-degree video.
+The Planner Evaluation team is working on one of the most challenging problems in autonomous driving: evaluating whether our autonomous cars are good drivers.  Beyond keeping our cars from colliding with things, we need to ensure that they donât scare other drivers, pedestrians, or other people on the road (or their own passengers), that the ride they provide is comfortable, and that theyâre following the rules of the road.  At Waymo we have a ton of extremely rich data from which to extract relevant signals--if you like working with data, geometric reasoning, simulation, and/or machine learning, this is the place for you!
+ 
+Evaluating our driving performance in a data-driven manner is both challenging and exciting--and by creating the metrics that define what good driving is, we can influence and improve onboard code both indirectly (by providing the quality signals for onboard engineers to aim for) and directly (by working with onboard engineers to incorporate signals into our motion planning code).
+ 
+To work on these complex challenges, we are bringing together experts from a wide variety of backgrounds, including data science, robotics, machine learning, and software architecture and infrastructure.  We are seeking enthusiastic software engineers and data scientists to jump into this problem space and solve novel problems with us at the intersection of robotics, data science and software.
+ 
+Background in robotics is not required - a history of strong performance on deep quantitative or software problems from other fields broadens our team's expertise and point of view, and is highly valued.  We seek particularly people with experience/interest in a mixture of extracting signals from large scale data and software engineering, and who are interested in learning about robotics and motion planning.
+ 
+Join us and you will work closely with robotics experts to deeply understand our motion planning system and improve the performance of the Waymo driver!
+ 
+Qualifications:
+
+PhD in some quantitative area (preferred, but other backgrounds considered) + 3 years of industry experience
+Extensive background working with data, either in academia or industry
+Either solid software engineering toolkit or deep statistical and/or ML knowledge 
+Enthusiasm to understand a complex system and its various components
+Experience with C++ and Python
+
+"
+"Software Engineer, Radar Signal Processing","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Hardware Engineering is a diverse, innovative, and collaborative group of electrical, mechanical, reliability, software and vehicle engineers. We design, build, and perfect the products which are the eyes and ears of Waymo's self-driving systems, and integrate those products into vehicle platforms. We're seeking curious and talented teammates to keep us moving in the right direction.
+In this role, you'll:
+
+Implement and maintain radar perception processing software, including measurement formation; multi-sensor, multi-target tracking; and image processing
+Architect and develop software to implement new sensing modes and capabilities
+Work with sensor data users to define and refine data products and interfaces
+
+At a minimum weâd like you to have:
+
+B.S. in Electrical Engineering or similar field
+Proficiency in C/C++
+Experience implementing production signal processing and probabilistic estimation algorithms
+
+Itâs preferred if you have:
+
+M.S. in EE or similar field
+Proficiency in C/C++, Matlab, and Python
+Experience with radar signal processing including FMCW/Stretch processing, MIMO, Bayesian Filtering, Super-Resolution techniques, etc.
+
+"
+"Software Engineer, Robotics (Fallback)","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+As Waymo becomes a multi-product company, Trucking will be our second largest opportunity and will see massive growth in 2020 as we tackle the unique challenges that it presents. We believe that commercial trucking, the backbone of our economy, stands to reap untold benefits by deploying autonomous trucks, particularly during long-haul stretches. Roads will be safer. Goods will be cheaper. Truckers will be called upon to use their skills in new ways while the truck itself becomes a trusted navigation partner. 
+In this role, you'll be working with a small but rapidly growing team, benefitting from shared technology and expertise of the greater Waymo and Alphabet organizations. We are looking for software engineers and roboticists who are passionate about evolving the safety-critical fallback and mitigation systems for self-driving cars and trucks beyond the state of the art.
+Responsibilities:
+
+Adapt and extend existing fallback systems for deployment across the Waymo fleet of trucks and cars, while creating all-new approaches where needed
+Evaluate and understand the cross-functional, trucking-specific challenges that need to be tackled to operate a large fleet of autonomous trucks safely and efficiently at scale
+Prototype and deploy robust and reliable solutions to cutting-edge driving problems.
+Improve how our vehicles act and react in complex, nuanced, and rare situations.
+Work cross-functionally across Waymoâs Planning, Perception, Infrastructure, Simulation, SysEng, Product, and other teams to drive new features to completion
+
+Minimum Qualifications:
+
+BS in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience in programming in C++ and with robust, safety-critical, efficient code
+Experience in at least one of: robotics, perception, motion planning and control, safety-critical systems (eg aerospace, medical or automotive), or autonomous systems
+Experience with data structures and advanced algorithms
+
+Preferred Qualifications:
+
+M.S. in robotics, computer science, autonomous systems or a related field.
+A generalist mindset with experience across the automated driving stack, from perception to behavior to mapping and localization to infrastructure.
+Extensive experience with autonomous or robotics systems deployed in the real world
+An interest in solving open ended problems
+
+"
+"Software Engineer, Routing Navigation","
+      Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Software Engineering builds the brains of Waymo's fully self-driving vehicles. Our software allows our vehicles to perceive the world around them, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If youâre a software engineer whoâs curious and passionate about Level 4 autonomous driving, we'd like to meet you.
+In this Software Engineering role, youâll be responsible for developing infrastructure and algorithms for improving routes driven by our self-driving vehicles. 
+Responsibilities include:
+
+Developing new algorithms to improve navigation capabilities and fleet efficiency.
+Optimizing real-time decision making for making routes fast, safe and comfortable.
+Building simulation tools and infrastructure to enable data-driven decision making.
+Developing new metrics and understanding how customer feedback should influence decision-making.
+
+Minimum Qualifications
+
+A BS or MS degree in Computer Science, Robotics, similar technical field of study, or equivalent practical experience
+Experience writing performant C++ code
+
+Preferred Qualifications 
+
+Knowledge of Routing or Motion Planning algorithms
+Experience building and deploying Machine Learning models
+Experience writing safety-critical code
+Experience with advanced graph search algorithms
+Experience with data analysis
+
+ 
+"
+"Software Engineer, Simulation","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Simulation Team enables Waymo to simulate and analyze millions of miles of driving every day. We can recreate, modify, and amplify our real-world experience -- or generate entirely new situations from scratch. Our work is central to the development workflow of the onboard self-driving software team, enabling onboard engineers to rapidly iterate and understand the subtle consequences of any change to the system. As powerful as this system is, however, there are still many open problems to solve and much work ahead of us. 
+On our Simulation team, we have multiple Software Engineering roles open. Some examples of problems we want to solve are: 
+
+Design simulated agents that interact in realistic ways with the self-driving car
+Seamlessly integrate logged data replay and simulated agents
+Quantify the performance and safety characteristics of the self-driving car
+Filter simulated data and detect the most interesting issues
+Build reliable and scalable infrastructure services that make it easy to use simulation in new ways
+Automate or streamline manual triage processes performed by a large team of operators
+Generate simulations that target specific challenges
+Automatically pick the most useful simulations to run at any time
+Accelerate onboard software development with improved tools and visualization
+
+At a minimum weâd like you to have:
+
+A BS or MS in Computer Science or a similar discipline. An equivalent amount of real-life experience is also welcome
+Experience with C++ (or a willingness to learn) and comfortable navigating a large code base 
+Passion about self-driving cars
+
+Itâs preferred if you have:
+
+Industry experience writing C++
+Full stack web development experience (frontend and backend)
+AngularJS or Angular2 experience
+Interest in learning from and optimizing for users
+Experience or an interest in machine learning or AV simulation 
+
+"
+"Software Engineer, Simulation Agents","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+The Simulation Team enables Waymo to simulate and analyze millions of miles of driving every day. We can recreate, modify, and amplify our real-world experience -- or generate entirely new situations from scratch. Our work is central to the development workflow of the onboard self-driving software team, enabling onboard engineers to rapidly iterate and understand the subtle consequences of any change to the system. As powerful as this system is, however, there are still many open problems to solve and much work ahead of us. 
+On our Simulation Agents team, we have multiple Software Engineering roles open. Some examples of problems we want to solve are: 
+
+Design simulated agents that interact in realistic ways with the self-driving car
+Seamlessly integrate logged data replay and simulated agents
+Quantify the performance and safety characteristics of the self-driving car
+Filter simulated data and detect the most interesting issues
+Build reliable and scalable infrastructure services that make it easy to use simulation in new ways
+Automate or streamline manual triage processes performed by a large team of operators
+Generate simulations that target specific challenges
+Automatically pick the most useful simulations to run at any time
+Accelerate onboard software development with improved tools and visualization
+
+At a minimum weâd like you to have:
+
+A BS or MS in Computer Science or a similar discipline. An equivalent amount of real-life experience is also welcome
+Experience with C++ (or a willingness to learn) and comfortable navigating a large code base 
+Passion about self-driving cars
+
+Itâs preferred if you have:
+
+Industry experience writing C++
+Full stack web development experience (frontend and backend)
+AngularJS or Angular2 experience
+Interest in learning from and optimizing for users
+Experience or an interest in machine learning or AV simulation
+
+Competitive Salary Offered
+Opening date: 1 July 2020
+"
+"Software Engineer, Simulation Realism","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+Simulation is critical to the development and testing of the self driving car (SDC) software.  It enables engineers to rapidly iterate and understand the subtle consequences of any change to the SDC software.
+However, the utility of our simulations is predicated on the realism and fidelity of these results.  Our team is responsible for building the simulated agents and generating realistic sensor data such that every simulated mile is as realistic as in the real world.
+In this Simulation Software Engineering role, you'll:
+
+Design simulated/AI agents that interact in realistic ways with the self-driving car.
+Simulate sensor output and field of view of the SDC in the virtual driving environment.
+Modify the simulator and onboard software so the behaviors seen on the road can be reproduced in simulation deterministically.
+Filter simulated data and detect the most interesting issues.
+
+At a minimum weâd like you to have:
+
+A BS or MS in Computer Science or a similar discipline.
+Passionate about self-driving cars.
+Desire to learn and validate the self driving car software and root cause issues.
+
+Itâs preferred if you have:
+
+Writing C++ and comfortable navigating a large code base.
+Working on large systems where performance and robustness matters.
+Designing and building game engine, game AI, or the platform for agent scripting.
+Computational geometry, camera rendering, or simulating sensor output.
+Motion planning or modeling human behavior on the road.
+
+ 
+"
+"Technical Lead Manager, Planner","
+Waymo is a self-driving technology company with a mission to make it safe and easy for people and things to get where theyâre going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the Worldâs Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 15 billion miles of simulation testing.
+At Waymo, we are building the brains of Waymoâs self driving vehicles. Our software allows our vehicles to perceive the world around them, predict how it is likely to evolve and make the right decision for every situation. We conduct novel research to address real-world behavior prediction, imitation learning, planning and control problems and collaborate with research teams at Alphabet. Here at Waymo, we have access to millions of miles of real driving data from a diverse set of sensors, enabling researchers like you to develop complex models and techniques at scale. Improvements deployed to our system can immediately impact our large fleet of autonomous vehicles.
+We are looking for a Tech Lead Manager who is curious and passionate about Level 4 autonomous driving.
+In this leadership role, you'll:
+
+Lead a team of software engineers that build motion planning and decision-making systems for the self-driving vehicles, ensuring that the behavior of our vehicles is safe, smooth, and predictable to other road users
+Design and lead efforts to improve how our vehicles act and react in complex and nuanced situations
+Attract, grow, and retain a diversity of talent, providing technical direction and career growth opportunities
+Inspire and motivate the team to work together as a cohesive and productive unit
+Guide all technical aspects of development, including technical requirements definition, design, implementation, unit testing, and integration
+Work closely with engineering partners and stakeholders to drive organizational alignment
+
+At a minimum we would like you to have:
+
+Must have a BS, MS, or PhD in Computer Science, Robotics or similar technical field of study
+Managed a team and set technical direction in the past
+Experience managing projects spanning across multiple teams
+Experience in Python and/or C++
+Strong written and verbal communications 
+
+Itâs preferred if you have:
+
+Experience in the Self Driving Car industry
+2+ years of experience as an engineering manager
+
+"
