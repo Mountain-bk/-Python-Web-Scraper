@@ -1,0 +1,1178 @@
+job-title,job-description
+"Data Engineer, Machine Learning Infrastructure & Analytics","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The Machine Learning Infrastructure & Analytics (MLIA) team in Argo is responsible for delivering the platforms, tools, and services that power the ML workflows and Data Analysis needs of the organization. The Data Engineering sub-team of MLIA builds and maintains the data pipelines and software tooling that drive Ground Truth Labeling, ML Training, Data Science, and Data Analytics at Argo. The team is responsible for pipeline health, data quality, lineage, and data lifecycle management. In addition to pipeline development the team also performs Data Mining and Data Analysis services for its customers. The pipelines, tools, and services provided by Data Engineering are essential to the development of Machine Learning models by our Perception and Autonomy teams. This team is also responsible for data pipeline integration with our Analytics platform, which enables the creation of actionable insights from Argo’s data.
+We are hiring experienced Data Engineers to help deliver the data, tools, and services that form the foundation of our ML and Analytics platforms. This is a high visibility role that will provide the opportunity to learn about, interact with, and add significant value to every part of our company supporting our goal of building safe and efficient self-driving vehicles.
+What you’ll do: 
+Work with stakeholders in the Perception, Autonomy, and Operations teams to define data requirements
+Build scalable and efficient end to end data pipelines for our ML and Analytics platforms
+Perform Data Mining and Data Analysis in support of client needs
+Develop robust software tooling to manage data (Data Quality, Data Lifecycle Management, Lineage, etc.)
+Work heavily with Python, C++, Spark, SQL, Airflow, and Looker 
+Build ETL, deliver reporting, and perform data analysis needed by clients
+Work with modern cloud, big data, and analytics technologies
+Continually improve the quality, efficiency, and robustness of data pipelines and tooling at Argo
+Help define and promote Data Engineering strategy and best practices
+Participate in code and architectural reviews
+Own initiatives from inception to implementation
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong team player that can collaborate effectively with others
+Experience building highly scalable, reliable, and maintainable data systems
+Experience building and working with ETL/ELT tooling
+Experience working with the Hadoop ecosystem (Spark, Hive, etc.)
+Experience working with Data Warehouses (Redshift, BigQuery, Snowflake, etc.)
+Experience working with Job Scheduling tools (Airflow, Luigi, Oozie)
+Experience working with Business Intelligence tools (Tableau, Qlik, Looker, etc.)
+Experience working with cloud infrastructure platforms (AWS, Azure, or GCP) 
+Proficiency developing software with Python, and some development experience with C++ is required
+Significant experience working with SQL and NoSQL database technologies
+Strong presentation and communication skills 
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Engineering Manager, Visualization Platform, C++ & Graphics","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The Visualization team is responsible for the applications and frameworks that visualize large amount of data (camera, lidar, radar, detected objects, predicted tracks, motion plans etc).  This team produces engaging real-time user interfaces that visualize what the self-driving car is thinking and doing.  
+Our products are deployed in the vehicle to deliver a great passenger experience and build trust with passengers.  To vehicle operations to support copilots, remote guidance, and triage of on-road interactions. Our platform is also used by engineers across the company as a core part of their development process.
+We are looking for an Engineering Manager to help deliver fleets of autonomous vehicles to market. You will have experience in managing complex software projects with a high degree of ambiguity. You can navigate this ambiguity, have good instincts, and translate concepts into a plan and direction for your team.
+Experience shipping end user products, customer focus, a passion for great user experiences and experience with graphics frameworks and GUI toolkits are highly desired. 
+What you’ll do: 
+This position will lead our core visualization platform team to visualize what the self-driving car is thinking and doing, in both real-time and offline processing use cases
+Drive technical projects in the software engineering teams to build, design, implement and manage robust and scalable systems in order to meet company OKRs and deliver our Virtual Driver System product on schedule
+Set goals, strategies, budgets, and oversee deployment of large-scale software projects across our US locations, and partner with our teams in Munich
+Influence and establish best engineering practices through solid design decisions, processes and tools
+Provide leadership for the software engineering teams and manage collaboration with cross-functional teams to streamline and improve communication
+Lead the team, but delegate and help grow the engineers
+Be hands on with the code - you still love to code, and are respected by your teams as a collaborative experienced engineer first, awesome manager second
+What you'll need to succeed:
+A degree in Computer Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, Physics, Robotics or a related field
+5+ years experience in software design, development, and algorithm related solutions
+Experience leading and managing complex, large scale software systems built to operate with real-time performance under heavy data load
+In addition to software leadership, tasks include growing technical leadership, managing teams and setting overall technical direction and roadmaps for an organization
+Deep expertise in C++ and computer graphics
+OpenGL experience, or experience with any real-time rendering API/framework is strongly desired
+Qt experience is strongly desired, or similar gui toolkits
+Strong organization and prioritization skills along with outstanding written and verbal communication skills which is essential in our team-based approach
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Lead Software Engineer, Big Data, Java/Python, Autonomous Vehicle Data Core","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Building a self-driving vehicle requires gathering a huge amount of data. At Argo AI we have a fleet of cars driving on city streets and recording everything the car does into vehicle logs.  The Data Core team owns building the infrastructure to ingest into AWS and process petabytes of autonomous vehicle data. Skills in Python, Java, EMR/Spark and Terraform are highly relevant.
+
+What you’ll do:
+Lead the Data Core team of 5 to 7 developers to build Argo’s scalable data ingestion and processing systems.  This involves a mix of edge computing installed on vehicle depots and AWS based systems.
+Be a key contributor to the team’s code base.
+Own the teams architecture and be responsible for its implementation.
+Develop proof of concepts and Architecture Designs.
+Establish engineering best practices, and participate in code/architecture reviews.
+Work closely with vehicle operation, autonomy integration, and development teams to identify key features to improve overall delivery of critical features to the AV.
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, Physics, Robotics or a related field.
+Deep experience with Python, Java, EMR/Spark, Linux, Terraform, and/or C++.
+Great technical leadership and mentoring experience in leading a team of experienced software engineers.
+Strong cross-team communication skills and very customer driven.
+Experience with scaling cloud and on premise systems
+Experience building highly available systems
+Experience with gRPC and REST back-end services
+Experience building and operating scalable data processing pipelines
+Broad software development and architectural skills.
+Expert level knowledge of cloud technologies including AWS, GCP, Kubernetes, and similar products
+Excellent communication skills are required given our distributed and diverse team.
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Lead Software Engineer, Manufacturing Systems","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The Manufacturing Systems Software Engineering team at Argo AI is responsible for building, delivering, and supporting Argo's software releases to our engineering and manufacturing partners. You will be working with a highly cross-functional team of systems, software, and hardware engineers. As the lead for the Manufacturing Systems Software team, you will be responsible for managing and mentoring the team as well as providing technical leadership in the architecture, design, and delivery of software for Argo's self-driving systems.
+What you'll do:
+Manage and deliver software releases to our engineering and manufacturing partners.
+Design and develop software processes and tools for manufacturing and test environments.
+Support development of integration, testing, and validation software targeting a wide array of hardware platforms.
+Responsible for personnel management tasks including hiring, goal planning, progress tracking, mentoring, reviewing employee performance, and team status reporting.
+What we're looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong leadership skills suitable for recruiting, leading, and managing a team of engineers to deliver high quality software.
+Significant product development and manufacturing experience including the delivery of complex hardware and software products.
+Experience delivering software to support hardware development life cycles (EVT, DVT, PVT).
+Strong programming skills in at least one language such as C++ or Python.
+Knowledge of software and associated frameworks in engineering/manufacturing environments for testing, verification/validation, change control, configuration/release management, etc.
+Quantitative / analytical mindset to probe, test and decompose challenging system problems into root cause issues with strong, detail oriented skills to solve them.
+Strong presentation and communication skills.
+Prefer candidates with experience developing highly complex hardware systems in robotics, transportation, aerospace, consumer electronics, defense, medical, energy, or similar industries.
+Open to travel to remote offices, test facilities, engineering partners, and manufacturing partners.
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+Perception Lead,"At Argo AI, we are working to transform the world of transportation by bringing fully autonomous self-driving cars safely into widespread use.  We already have some of the world’s most experienced leaders in the field, with expertise ranging from complex robotics algorithms to production software development to sophisticated hardware design and production.  We are looking for highly motivated, technically deep engineers and applied scientists to join our team and help us realize this vision.
+Perception Lead:
+Perception (tracking, detection) is a core technical problem for L4 self-driving vehicles and a key part of our autonomy stack. Self-driving cars need to track actors around the vehicle to make the correct decisions. The implementation must meet rigorous real time constraints and report stable tracks for the car to accurately identify the 3D state of the world. Ultimately, we must not only solve the algorithm challenges but produce safety-quality high performance software. So this position is as much a software challenge as it is a core algorithm challenge.
+We are looking for hands on candidates who can set the vision for, grow and manage strong technical teams with a mixture of vision, probabilistic filtering and lidar algorithm experience and strong software experience. We are looking for a team lead who will be deep in code and is technically strong in software and (ideally) strong in tracking and detection algorithms -- segmentation, clustering, data association, multi-extended object tracking and filtering, MHT or other registration algorithms. Candidates need not have worked on self-driving or robotics applications. Candidates with extremely strong skills in some areas but weaker in others will be considered with a bias towards strong software engineering skills. The ideal candidate skill set includes:
+Strong software engineering skills are required but we are language agnostic. A willingness to gain stronger software engineering knowledge and deep expertise in C++ and/or python is required.
+Strong leadership skills suitable for recruiting, leading and managing a team of engineers to solve a challenging problem and build a critical component of a real-time system.
+Strong theoretical and applied knowledge of relevant subsets of tracking-relevant algorithms.
+Strong desire for candidates with hands on experience that have deployed real products or platforms into the real world and intimately understand the challenges of working with complex systems.
+Strong presentation and communication skills are desired.
+ROLE DESCRIPTION:
+As the lead for the perception team, you’ll be responsible for a critical piece of the system:
+The component of the self driving vehicle keeping track in space and time of objects around the car.
+Leading the team to advance the algorithmic performance through pragmatic and rigorous A vs B evaluations using a mix of state of the art or “classical” techniques
+Ensure that the algorithms are integrated within our onboard infrastructure and hardware, are robustly implemented and run in real time
+Coordinate with data collection to select and label relevant data to improve our tracking algorithms.
+Manage 2 to 3 teams of ~5 engineers and researchers on each team.
+  SKILLS, EXPERTISE, EDUCATION AND PRIOR EXPERIENCE:
+Required Skills, Expertise, Education & Experience:
+Experienced software engineer working on problems with advanced algorithms or researcher with a track record of real world applications involving solid software engineering.
+Managed or tech lead small teams.
+C++
+Python
+Real-time applications
+Advanced probabilistic, machine learning or similar algorithms
+Preferred or Desired Skills, Expertise, Education & Experience:
+This is a role that involves building real time software, but also dealing with some technically and mathematically deep algorithms. While they don’t need to be the world’s expert on tracking, the candidate does need to be able to get up to speed quickly on the algorithm space and mathematical underpinnings and be able to hire candidates that are strong in probabilistic state estimation and registration as well as bring strong software engineering practice to bear.
+Some subset of: Tracking, computer vision, SLAM, lidar, robotics, state estimation, machine learning, image or lidar registration.
+Needs to be strongly familiar with probabilistic algorithms.
+  At Argo AI, we have a strong emphasis on creating a highly effective team environment. Thus, we seek candidates that can work effectively with others in small project teams, but can also be self-directed in independently pursuing broadly-scoped technical goals.
+Argo AI is an equal opportunity employer that believes in diversity as a strength. 
+Benefits include:
+Full, high quality health/dental/vision insurance.
+401(k) plan with employer match.
+Paid company holidays and extensive vacation."
+"Principal Manager, Perception","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+This team solves problems that involve geometric computer vision: processing sensor data from Lidar or imagery and geometrically reasoning about that data. That data gets used in localization to estimate pose relative to the map or, over time, calibration to produce high quality calibrations of the sensors and vehicle, and in mapping to geometrically align the world.
+What you’ll do: 
+Be able to manage multiple managers on teams including, Localization, Calibration, Special Projects and Lidar Processing.
+Work on learning-based approaches to improve our visual localization and mapping system.
+Set the vision for, grow and lead a variety of strong technical teams with a mix of vision and Lidar algorithm experience and strong software experience.
+Work on geometric and learning-based approaches to improve our visual localization and mapping system
+Be deep in code with strength in software and, ideally, localization algorithms (GCV, SFM, SLAM, or other registration algorithms).
+Collaborate with engineers across a variety of teams to brainstorm and accelerate development of perception capabilities.
+Design, implement and validate algorithms to support robust and scalable mapping pipelines for Argo’s self-driving cars. In addition, you will also design and implement necessary metrics and tools
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+A hands on candidate who can lead up to 10 people to solve these challenges
+Strong fundamentals in geometric computer vision algorithms: pose estimation, numerical optimization, feature extraction, imagery and Lidar
+Familiarity with IMUs and probabilistic state estimation methods
+Ability to be deep into code and know how to drive a team to produce a high quality, runtime and a memory efficient, robust software product that can operate robustly under a range of real world conditions
+Strong software, and software engineering skills are required but we are language agnostic. A willingness to gain stronger software engineering knowledge and deep expertise in C++ and/or python is required
+Strong leadership skills suitable for recruiting, leading and managing small sets of teams of teams of engineers to solve a challenging problem and build a critical component of a real-time system
+Strong theoretical and applied knowledge of relevant subsets of localization-relevant algorithms. These may include: SFM, pose estimation, model fitting, SLAM, complex state estimation
+Strong desire for candidates with hands on experience that have deployed real products or platforms into the real world and intimately understand the challenges of working with complex systems
+Strong presentation and communication skills are desired
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Data Engineer, Machine Learning Infrastructure & Analytics","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The Machine Learning Infrastructure & Analytics (MLIA) team in Argo is responsible for delivering the platforms, tools, and services that power the ML workflows and Data Analysis needs of the organization. The Data Engineering sub-team of MLIA builds and maintains the data pipelines and software tooling that drive Ground Truth Labeling, ML Training, Data Science, and Data Analytics at Argo. The team is responsible for pipeline health, data quality, lineage, and data lifecycle management. In addition to pipeline development the team also performs Data Mining and Data Analysis services for its customers. The pipelines, tools, and services provided by Data Engineering are essential to the development of Machine Learning models by our Perception and Autonomy teams. This team is also responsible for data pipeline integration with our Analytics platform, which enables the creation of actionable insights from Argo’s data.
+We are hiring experienced Data Engineers to help deliver the data, tools, and services that form the foundation of our ML and Analytics platforms. This is a high visibility role that will provide the opportunity to learn about, interact with, and add significant value to every part of our company supporting our goal of building safe and efficient self-driving vehicles.
+What you’ll do: 
+Work with stakeholders in the Perception, Autonomy, and Operations teams to define data requirements
+Build scalable and efficient end to end data pipelines for our ML and Analytics platforms
+Perform Data Mining and Data Analysis in support of client needs
+Develop robust software tooling to manage data (Data Quality, Data Lifecycle Management, Lineage, etc.)
+Work heavily with Python, C++, Spark, SQL, Airflow, and Looker 
+Build ETL, deliver reporting, and perform data analysis needed by clients
+Work with modern cloud, big data, and analytics technologies
+Continually improve the quality, efficiency, and robustness of data pipelines and tooling at Argo
+Help define and promote Data Engineering strategy and best practices
+Participate in code and architectural reviews
+Own initiatives from inception to implementation
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong team player that can collaborate effectively with others
+Experience working as a lead or senior level Data Engineer
+Experience building highly scalable, reliable, and maintainable data systems
+Experience building and working with ETL/ELT tooling
+Experience working with the Hadoop ecosystem (Spark, Hive, etc.)
+Experience working with Data Warehouses (Redshift, BigQuery, Snowflake, etc.)
+Experience working with Job Scheduling tools (Airflow, Luigi, Oozie)
+Experience working with Business Intelligence tools (Tableau, Qlik, Looker, etc.)
+Experience working with cloud infrastructure platforms (AWS, Azure, or GCP) 
+Proficiency developing software with Python and some development experience with C++ is required
+Significant experience working with SQL and NoSQL database technologies
+Strong presentation and communication skills 
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Cloud Platform","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Argo AI Cloud Platform engineers create reusable architecture patterns for cloud engineering via infrastructure as code for Argo teams to leverage as common shared components and educate Argo teams on how to architect their solutions for scale, security, and reviewed changes through automation. The Cloud Platform team interacts with engineering teams spanning from remote vehicle operations, ingest/data processing, mapping, labeling, triage, machine learning (detection, prediction, tracking), motion planning/control, offline simulation, and release/deployment teams to unify development practices and scalable efficiency of cloud/cloud native technologies
+Engineers in the Cloud Platform team will be based in either Pittsburgh, PA or Palo Alto, CA.
+What you’ll do:
+Design and implement scalable distributed systems in the cloud to facilitate the development of self-driving vehicles.
+Contribute to self-driving vehicle log ingest/processing, simulation, and related applications to enable fully autonomous vehicles.
+Take ownership of end-to-end processes and infrastructure automation for Argo engineering teams to deploy services into the cloud and establish/advocate shared engineering patterns.
+What you'll need to succeed:
+A degree in Computer Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, Physics, Robotics or a related field.
+Hands on development in Python, Go, or Java to create production level services that incorporate CI/CD.
+Experience in using infrastructure as code to automate the creation of cloud resources. E.g. Terraform, Cloud Formation, or others.
+Strong experience with architecting/deploying scalable services and workloads in the cloud (AWS, GCP) and/or cloud native environments.
+Strong experience with deployment management/scheduling/high availability/failure modes for distributed applications and compute workloads running on CPUs, GPUs, and/or TPUs.
+Understand engineering design limitations and provide guidance for teams to scale their deployments in the cloud so that they can achieve desired performance within budget.
+Experience creating reusable deployment patterns for teams to adopt, that incorporate networking, security, monitoring, logging, alerting, continuous integration and deployments.
+Understanding of API specification languages (e.g. Open API 2.0/gRPC) and the ability to create reusable code via code generation, templates, and other rapid development techniques for teams to consume.
+Leverage and modify open source tools to meet unique requirements for internal teams, including but not limited to Kubernetes, Prometheus, FluentD, Itsio, Envoy, CoreDNS, etcd, Flux, among others.
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Computer Vision (Stereo)","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team: 
+We are looking for experienced software engineers to code computer vision algorithms using CUDA, OpenCL, and/or SSE instructions to enable real-time processing of data to improve our self-driving cars’ ability to navigate urban environments.
+What you'll do:
+Your work will be essential to fielding these vehicles and you will have direct exposure to real world data and feedback, and the satisfaction of having contributed to a state-of-the art autonomous vehicle.
+You will be part of a broader perception team and will participate in discussions and brainstorming.
+What we're looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, Physics, Robotics or a related field
+Strong background developing with C++ including the use of templates, multiple-inheritance, and abstract classes
+Significant experience optimizing code to be both compute and memory efficient
+Knowledge of and experience with CUDA, OpenCL and/or SSE programming
+Software system architecture design
+Good communications skills
+Experience in Linux environments is desired
+Experience developing, calibrating and testing stereovision systems, preferred
+Knowledgeable in areas pertaining to computer vision, preferred
+Knowledgeable about the phenomenology of vision sensors, preferred
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date. 
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer C++, Onboard Runtime","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+We are looking for candidates who are excited about building core software infrastructure to enable rapid and robust advancement of our autonomy system.  Engineers on the robotics infrastructure team are passionate about building performance high reliability software systems.
+What you'll do:
+Help design and maintain the base frameworks, hardware interfaces, and diagnostic systems that underpin our autonomy system
+Work in C++17 and some Python
+Problem solve in a fast paced environment and work with complex software
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong design and architecture: You must be able to understand and balance requirements in complex software systems
+Deep programming skills in a major language: We work in C++17 and some Python. You must be able to implement clean and efficient code and interfaces
+Ability to communicate complicated technical information: We are working on hard problems in a very fast paced team environment
+Outstanding engineering judgement: You understand how to scope solutions to produce a high volume of quality work with maximum value
+Technical expertise in Linux system development, profiling, and optimization
+Experience with robotics, automation, or another real time application domain is highly desirable
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, (C++, Python) Engineering Integration","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The engineering integration software team will cover all aspects of Argo's next generation technology including our Argo Lidar products. This position will work on everything from prototyping, and integration to production. This team will also help other hardware teams to integrate other next generation prototypes into our autonomous vehicle stack.
+What you’ll do:
+Develop full-stack software application for real-time Lidar system control, calibration, data acquisition, and point cloud visualization in C++ and Python
+Develop software for automated testing and characterization of optoelectronic devices such as geiger mode APDs, diode lasers, optical scanners, and various Lidar systems
+Contribute to the development of system simulation utilities with a focus on front-end GUIs for configuration and output data visualization
+Provide expertise in the design and development of software for cross-functional teams involved with device testing, simulation, and signal processing
+What you'll need to succeed:
+Degree in Computer Science,Computer Engineering, Electrical Engineering, Robotics or a related field
+Strong C++ and Python programming skills
+Good experience with the Qt library for GUI development
+Experience with GCC and Linux based development
+Prefer candidates with experience in point cloud and 3D graphics visualization
+Prefer candidates with experience in network socket communication
+Prefer candidates with experience in Bazel, Docker, Jenkins and others
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Full Stack, Map Engineering, Platform & Services","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The safe operation of self driving vehicles depends in part on the orchestration of machine learning, classical algorithms, as well as human-centric processes into complex workflows. The Argo Map Engineering Workflow Services team is responsible for the cloud-based products and services used by internal teams to manage these workflows, including the creation of maps and simulations. We are seeking experienced candidates who thrive in a fast-paced environment, enjoy being a part of a distributed team, and can transform ideas into new features.
+What you'll do:
+Design, implement, and enhance products and services that support multiple internal initiatives
+that are both automated and human driven, including mapping and simulation
+Leverage your experience and creativity to solve complex problems in an agile-centric
+environment
+ Collaborate with internal teams to identify new products and services, requirements, features, and
+interfaces
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Full-stack software engineering experience
+Strong communication, problem solving, task prioritization, and teamwork skills
+Solid architecture and design skills
+Experience with Java and/or other JVM-based languages
+Experience with TypeScript and/or JavaScript, Node.js, and frameworks (e.g.: React, Redux,Bootstrap, Semantic UI)
+Experience with SQL and NoSQL databases, including PostgreSQL and Apache Cassandra
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Full-Stack, Map Tools","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Today’s autonomous vehicles require highly detailed complex 3D maps for which there are not off the shelf solutions. The Map Tools Team is looking for talented individuals to help us develop creative in house solutions to fill this void using today’s cutting edge technologies.
+What you’ll do:
+Leverage web based languages and frameworks such as TypeScript, React, and D3.js to create streamlined interactive tooling
+Work with team members to establish novel approaches to visualizing 2D and 3D data
+Implement features using TypeScript
+Investigate new approaches and technologies that can be leveraged for next generation solutions
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Prior work in front end software development
+Strong familiarity with HTML5, JavaScript, CSS3 and Java or Python
+Experience with WebGL or JavaScript 3D libraries also a plus
+Good communication skills are required
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+ At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Java/Python, Map Engineering","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+We are looking for candidates who are excited about building core software to enable rapid and robust maps for AV.  Maps play a critical role in the success of Argo AI. Today’s autonomous vehicles require a unique prior map of the world they are operating within for everything from navigation to context of the environment around them.  Map Representation spans everything from collecting raw data from vehicles to producing end user maps including on-vehicle map SDK's. Join a team using cutting edge technologies to create solutions for highly detailed and complex maps that empower our autonomous vehicles.
+What you'll do:
+Design and implement backend systems to build maps for our growing fleet of autonomous vehicles
+Develop rigorous software products using a mix of Python and Java
+Work with point cloud, image, and other sensor data to build HD maps for self-driving vehicles
+Work with internal teams on SLAM, 2D segmentation, classification and other ML models
+Problem solve in a fast paced environment and work with complex software
+Work with internal teams to understand their needs and define requirements/interfaces
+Design scalable solutions for big-data storage and retrieval on AWS using Kubernetes, Airflow and other cloud technologies 
+ What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, Physics, Robotics or a related field
+Strong design and architecture: You must be able to understand and balance requirements in complex software systems
+Deep programming skills in a major language: We work in C++, Java, Kotlin, Go and Python. You must be able to implement clean and efficient code and interfaces
+Ability to communicate complicated technical information: We are working on hard problems in a very fast paced team environment
+Outstanding engineering judgement: You understand how to scope solutions to produce a high volume of quality work with maximum value
+Technical expertise in Linux system development, profiling, and optimization
+Ability to work beyond your core engineering field and understand how the pieces fit together in the larger system
+Nice to have:
+Experience with ML frameworks such as Tensorflow, Caffe, and PyTorch
+Experience with machine learning and classification
+Computer vision, or related technical fields is a plus 
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Lidar Perception","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Lidar-based sensing drives many of the technical approaches to challenges for L4 self-driving vehicles, and forms a key part of our autonomy stack. Self-driving cars can use Lidar data for localization, obstacle detection, and detecting actors in the environment. The implementation must meet rigorous real-time constraints while building rich models of the geometric state of the world. Ultimately, we must not only solve the algorithm challenges but produce safety-quality high performance software. This position requires both strong algorithmic fundamentals and solid software engineering skills.
+What you’ll do:
+Implement libraries, algorithms, and tools for processing Lidar data to push the state-of-the-art in obstacle detection, object tracking, and related perception challenges
+Test and field these algorithms for real-time operation on autonomous vehicles at scale in challenging environments
+Collaborate with engineers across a variety of teams to brainstorm and accelerate development of perception capabilities
+Coordinate with data collection to select and label relevant data to improve our tracking algorithms and develop metrics by which the tracking system is evaluated
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong software engineering skills using C++ in real-time, computationally efficient systems are required. If the candidate is not already an expert in C++, a willingness to gain stronger software engineering knowledge in this language is required
+Strong theoretical and applied knowledge of point cloud or Lidar based algorithms such as segmentation, localization, filtering, surface estimation/fitting, and interpolation/extrapolation
+Theoretical knowledge of detection, segmentation, obstacle detection, graphical methods, probabilistic algorithms or optimization
+Strong desire for candidates with hands on experience that have deployed real products or platforms into the real world and intimately understand the challenges of working with complex systems
+Strong presentation and communication skills are desired
+Experience in Linux environments is desired
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Machine Learning Training Platform","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The Machine Learning Training Platform team is responsible for delivering the platform and services needed to train and deploy the various Machine Learning models used at Argo AI. We serve the Machine Learning needs of multiple teams, including on-vehicle Autonomy teams as well as off-vehicle teams. We are hiring Senior Software Engineers who will own the engineering and support of the Machine Learning Training Platform and related tooling. This is a high impact team that will provide the opportunity to learn about, interact with, and add significant value to every team building Machine Learning models at Argo, and support our goal of building safe and efficient self-driving vehicles.
+What you’ll do: 
+Architect, implement, and support our Machine Learning Platform and associated tooling
+Collaborate with internal customers to define and deliver features and tools
+Automate the build, test, deployment, monitoring and support of software deliverables
+Own initiatives from inception to implementation
+Provide training and support to empower users of our platform
+Participate in code and architecture reviews
+Follow and promote Software Engineering and Machine Learning best practices across the organization
+Work with cloud, deployment, and Machine Learning technologies (AWS, GCP, TensorFlow, Kubernetes, Docker, etc.)
+Full-stack software development in Python and related frameworks / tools
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong team player who can collaborate effectively with others
+Experience building highly scalable, reliable, and maintainable data systems/Machine Learning pipelines
+Experience delivering software and systems that support Machine Learning, Deep Learning, or both
+Experience working as a lead or Senior level Software Engineer
+Strong programming skills in relevant languages (Python, C++, Java, scripting), associated tools & frameworks
+Experience working with cloud-based infrastructure platforms (such as AWS, Azure, or GCP) 
+Ability to build new software systems from scratch and implement off the shelf / open source frameworks depending on the need
+Strong presentation and communication skills
+Nice to haves:
+Working knowledge of large scale data processing tools (e.g. Spark, Beam, Hadoop ecosystem, etc.) and workflow orchestration tools (e.g. Airflow, Kubeflow, Oozie, Conductor, Azkaban, etc.)
+Working proficiency with containers and orchestration frameworks like Docker and Kubernetes
+Knowledge of cross platform build tools (eg. Bazel, Maven, etc.)
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Mapping/Special Projects","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team: 
+We are seeking hands-on candidates who will be deep in code, and are technically strong in either point cloud processing, geometric computer vision or scene reconstruction to support building the maps for Argo’s self-driving cars. Since the maps by nature support many modules in the system, successful candidates are also expected to get acquainted with how the maps are consumed by the others and help make improvements in a variety of places (therefore special projects). Prior experience in self-driving or robotics applications is not required. Candidates with extremely strong skills in some areas but weaker in others will be considered with a bias towards strong software engineering skills.
+What you’ll do:
+Design, implement and validate algorithms to support robust and scalable mapping pipelines for Argo’s self-driving cars. In addition, you will also design and implement necessary metrics and tools
+Collaborate with engineers across teams to improve the maps. It requires not only how to build good maps, but also how the maps are consumed by different modules, so that sensible design decisions can be made
+What we’re looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Solid C++ programming skills and software engineering practice. Knowledge of modern C++ is a plus
+Solid understanding of data structures, algorithms and probability (in the context of mapping)
+Solid understanding of analytic geometry, linear algebra and numerical optimization
+Strong communication, problem-solving, task-prioritization and teamwork skills
+Experience in geometric computer vision, point cloud processing or scene reconstruction is a plus
+Experience in parallel or distributed computing is a plus
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Senior Software Engineer, Motion Planning & Decision Making","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The Argo AI Motion Planning team is the team that brings all of the autonomy inputs together. The team is responsible for taking perception, prediction, and mapping inputs and combining them to generate a safe, yet comfortable ride. This role will involve work on high-level decision making. This includes route planning, reasoning about lane geometry, intersections, traffic light decision making, lane changes, merging, other actors on the road (such as vehicles, pedestrians, bicyclists, etc.) among other things. Work by this team also involves taking these decisions and producing trajectories for the vehicle to drive.
+What you'll do:
+Design and develop algorithms throughout the Motion Planning stack, which could include things ranging from route planning, trajectory optimization, decision making, and even some ride comfort work.
+Test and debug algorithms and code being ran on the vehicle.  Including:
+Simulation testing
+Log playback and resim
+Cloud simulation
+On vehicle testing
+Work with other teams to ensure capabilities align with Motion Planning needs. 
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong theoretical and applied skills in subsets of Motion Planning: Motion/trajectory planning and route planning applied to land, air, space, or water-based robots such as behavioral planning, shortest path, obstacle avoidance, A*, D*, lattice, and RRT to name a few
+Hands on experience with real platforms and with an intimate understanding of the challenges of working with complex systems and a quantitative/data driven approach to improve system performance
+Experience building systems that must convey intent as well as making optimal decisions and/or interact with humans on a regular basis, preferred
+Strong software skills are required but we are language agnostic. A willingness to gain stronger software engineering knowledge and deep expertise in C++ and some python is required
+Strong presentation and communication skills are desired
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+Senior Software Engineer (Multiple Openings),"Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:  
+The Motion Controls team at Argo is responsible for selecting steering / powertrain / brake requests in order to pilot the autonomous vehicle safely and comfortably to its destination.  To do so, we build and maintain vehicle dynamics models and design algorithms to leverage these models for accurate vehicle planning and control. We split our time between designing/implementing algorithms, and testing/experimenting and analyzing data. Our work is not done until it works in the car!  
+What you’ll do: 
+Develop efficient and well tested software in C++ and Python for the Motion Control systems of the autonomous vehicle;
+Design metrics to measure software performance, implementing automated metric extraction tools;
+Design and implement debugging visualization to aid in algorithm testing and troubleshooting;
+Test performance of software features in-vehicle and off-board on fleet collected data;
+Refactor legacy software to adhere to modern design principles and best practices; and
+Audit the Motion Control software to recommend large scale refactors that improve runtime efficiency.
+What you'll need to succeed:
+Master of Science degree or foreign equivalent in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field of study together with two (2) years of experience in a related occupation. 
+Will also accept a Bachelor of Science degree or foreign equivalent in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field of study together with four (4) years of experience in a related occupation. 
+Previous employment experience must have included: 
+At least two (2) years of experience in developing  software for real platforms and complex systems using C++ and/or Python;
+Experience in using quantitative and data driven approaches to improve software system performance;
+Experience with developing algorithms for Planning & Controls systems, including motion / trajectory planning, vehicle modeling, vehicle control, and route planning applied to robots; and
+Experience in designing real time data visualization to aid in algorithm debugging.
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+Simulation GUI Developer,"Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Argo AI is looking to expand our Simulation Engineering team! The Simulation Engineering team is responsible for building a highly scalable distributed platform for managing, running, and aggregating millions of simulation jobs per day. This is a big compute platform that will generate petabytes of data along and require web services to manage/status workloads.
+What you’ll do: 
+Be a part of building a virtual world to allow us to iterate quickly, test safely before getting to a car, and to get enough virtual miles to help build our safety case
+Build 3D visualization tooling to enable engineers to monitor and analyze the performance of the autonomous vehicle in the simulated virtual world
+Build scenario authoring tools to allow users to create and manage simulation scenarios
+Integrate front end software with a scenario management system
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+OpenGL experience is strongly desired, although experience with any real time rendering API is helpful
+Qt (widgets and/or QML) experience is strongly desired
+Web-based front-end architecture experience (e.g TypeScript, React, WebGL) is desired
+Hands-on experience with GUI testing frameworks
+Experience with modern design architectural patterns for user interfaces
+Strong software skills (geometric algorithms and data structure)
+Content creation skills (e.g. 3D modelling, vector graphics) are a plus 
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Site Reliability Engineer, Cloud Platform","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Argo AI Site Reliability Engineers are responsible for building and running our mission-critical systems. Through the implementation of monitoring and automation, our SREs constantly ensure the health, reliability, scalability, and performance of Argo AI’s infrastructure. The Site Reliability team works together with engineering teams, IT, and Security to address unique business challenges through comprehensive solutions while taking into account system uptime, reliability, and maintainability. Members of the team are expected to promote the importance of resiliency patterns to other teams within Argo AI, as well as contribute to a culture of continuous learning. 
+What you’ll do: 
+Design and implement scalable distributed systems to facilitate the development of self-driving vehicles
+Monitor and maintain mission-critical production services to ensure maximum uptime
+Document actions to build a comprehensive library of runbooks, which will act as a knowledge base and foundation for automation
+Scale the reliability and velocity of our systems and processes through increased automation
+Participate in an on-call rotation and culture of continuous improvement through blameless postmortems
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Expertise in at least one scripting language (e.g. Bash, Python)
+Fundamental understanding of Linux operating system internals, TCP/IP networking, and storage subsystems
+Strong experience scaling and securing services in the cloud (AWS, GCP) or cloud native environments
+Experience using infrastructure-as-code principles to automate the creation of infrastructure resources (e.g. Terraform, CloudFormation)
+Understanding of engineering design limitations and ability to provide guidance to teams to scale their services to achieve desired performance within budget
+Experience implementing and debugging cloud native and open source tools such as Kubernetes, etcd, Prometheus, FluentD and Istio
+Strong communication skills and the ability to work effectively in a diverse and distributed team
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Software Engineer, C++","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+We are growing our teams quickly, so talent with a C++ skill set can add value across various teams at Argo. If you are unsure the best role for you based on our current postings or there is no role currently posted that matches your skills and experience, we encourage you to apply to this role. We will contact you if we find a role that would be a good fit for you. 
+We need highly motivated, talented C++ software engineers to join our team and help us realize this vision. C++ is our core programming language for on-vehicle software and thus is critically important to our team.
+What we’re looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong technical depth in the C++ language and all its quirks
+Strong experience in developing production C++  applications and systems
+Knowledge of concurrent and parallel programming
+Software system architecture design
+Excellent communication skills
+Hands-on C++11 and C++14 experience
+Experience in Linux environments, is desired but not essential
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Software Engineer, Detection","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team: 
+Perception is a key problem for self-driving vehicles, where cars without human drivers need to perceive objects and actors around the vehicle to make the correct decisions. The implementation must meet rigorous real time constraints and reliably report detections in 2D or 3D spaces. Ultimately, we must not only solve the algorithm challenges but produce safety-quality high performance software.
+Deep learning algorithms power modern perception pipelines. We seek hands-on candidates who have experience building and deploying highly performant machine learning computer vision pipelines for real-time detection.  The ideal candidate has strong software engineering skills and has applied this knowledge to deep learning pipelines running on GPUs. Candidates need not have worked on self-driving or robotics applications.
+What you’ll do:
+Design and implementation of autonomous driving software to run machine learning algorithms in a real-time environment
+Work with the broader team to integrate productionized deep networks onto the vehicle to meet quality and run-time performance targets
+Improve latency of perception algorithms to contribute to safety and reliability
+Provide guidance on strategies to productionize cutting-edge networks for use in our on-vehicle perception stack
+Contribute to visualization software to make vehicle behavior transparent to operators
+What we're looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong software engineering skills are required, preferably in C++
+Strong desire for candidates with hands-on experience that have deployed real products or platforms into the real world and intimately understand the challenges of working with complex systems
+Experience with GPU, CUDA, OpenCL or SIMD is desirable
+Experience with real product delivery, real-time systems, game engines or similar real systems is strongly desired
+Practical experience with deep neural networks, inference, and training is desirable
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Software Engineer, Detection & Machine Learning","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team: 
+  Machine learning, more specifically deep learning algorithms (detection, segmentation, and fusion tasks) are one of the main challenges for self-driving vehicles and a key part of our autonomy stack. Self-driving cars need to perceive objects and actors around the vehicle to make the correct decisions. The implementation must meet rigorous real time constraints and reliably report detections in 2D or 3D spaces. Ultimately, we must not only solve the algorithm challenges but produce safety-quality high performance software. So this position is as much a software challenge as it is a core algorithm challenge.
+  We are seeking hands on candidates who have a mix of computer vision, machine learning expertise, embedded and real time constraints and low level accelerators (FPGA, GPUs). We are looking for practitioners who will be deep in code, and are technically strong in software and (ideally) strong in applied machine learning algorithms. Candidates need not have worked on self-driving, or robotics applications. Candidates with extremely strong skills in some areas but weaker in others will be considered with a bias towards strong software engineering skills.
+What you’ll do:
+Core models used for scene understanding that are front and center in the perception pipeline
+Research projects improving not only our current image space but also radar, LiDar space detection algorithms and best methods to fuse together to improve performance
+Turning algorithm exploration that performs best on rigorous and pragmatic A vs B experiments evaluated extensively on data into models/software running on the vehicle
+Working with data collection to select and label relevant data to improve our supervised training
+Working with label tooling team to adjust labeling policies, and approaches to obtain the best label set needed
+What we're looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong software engineering skills are required but we are language agnostic
+A willingness to gain stronger software engineering knowledge and deep expertise in C++ and/or python is required
+Strong theoretical and applied knowledge of relevant subsets of detection algorithms
+Strong desire for candidates with hands on experience that have deployed real products or platforms into the real world and intimately understand the challenges of working with complex systems
+Experienced software engineer or research with a track record of real world applications incorporating machine learning and computer vision
+Python
+C++
+Realtime applications
+Experience with real world applications of machine learning and computer vision
+Classification, scene understanding, object detection classes of algorithms
+Familiarity with Mxnet, caffe, tensorflow or other similar deep net or machine learning packages
+GPU expertise
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Software Engineer, Embedded Systems","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team: 
+The Embedded Software Engineering team at Argo AI is responsible for developing and validating a broad array of safety critical code for our sensor and computer systems. Embedded Software Engineers work with cross functional teams to develop the requirements and software architecture for our embedded systems. They write and test software for microcontrollers and system-on-chip (SoC) devices in the vehicle. And they conduct system integration validation testing with their peers.
+What you’ll do:
+Deliver RTOS solutions for safety critical embedded software in a robotics + automotive environment.
+Design software for sensor control, inter processor communications, monitoring, drivers, acceptance testing, and more.
+Work with other Hardware Engineers to define requirements for hardware systems.
+Work with other Software Engineers to integrate embedded systems into Argo AI’s autonomy software stack.
+What we're looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Experience in software development for embedded devices
+Experience in Low Level Communications Protocols
+Experience in Bare Metal Product Environments
+Strong C/C++ programming skills applied to embedded Microcontroller/Microprocessor targets
+Experience in Memory Constrained Environments
+Ability to understand PCB schematic and layout documents
+Experience with debugging tools and methods for embedded targets
+Quantitative / analytic mindset to probe, test and decompose challenging system problems into root cause issues with strong, detail oriented skills to solve them
+A record of owning projects successfully and working in a fast paced environment
+Ability to serve cross functional roles in a young company
+Good experience writing concise, clear, and detailed engineering documentation
+Strong presentation and communication skills
+Experience with communication protocols used in embedded, robotics and automotive industries
+Prefer candidates with experience developing highly complex hardware systems in robotics, transportation, aerospace, consumer electronics, defense, medical, energy, or similar industries
+Open to occasional travel to remote offices, test facilities, engineering partners, or manufacturing partners
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date. 
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Software Engineer, Front End","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team: 
+We are growing our teams quickly, so front end engineering talent with strong Javascript skills can add value across various teams at Argo. If you are unsure the best role for you based on our current postings or there is no role currently posted that matches your skills and experience, we encourage you to apply to this role. We will contact you if we find a role that would be a good fit for you. 
+We are seeking talented front end/full stack engineers to build innovative tools and applications, whether web or native, for our autonomous vehicle platforms up and down the stack and around the ecosystem. We geek out on modern technologies such as Typescript, React and WebGL. Candidates should be proficient in modern web or frontend technologies and frameworks, have a solid understanding of cloud infrastructure, and, above all, a passion for creating the best products.
+What we’re looking for:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Prior work in front end software development
+Strong familiarity with HTML5, JavaScript, CSS3 and Java or Python
+Familiarity with Javascript libraries/frameworks such as Angular, React, or Vue is preferred
+Experience with WebGL or JavaScript 3D libraries (d3) also a plus
+Good communication skills are required
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date. 
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Software Engineer, Onboard Infrastructure, Deployment","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Our deployment team creates the software responsible for getting the bits onto the vehicles in a timely and efficient manner, as well as providing the fleet operations team with the additional tooling required for maximizing their testing capabilities. As a member of the deployment team, you’ll have a front-row seat to the future of autonomous vehicles and play a critical role in moving humanity into the next era of safe and reliable transportation.
+What you’ll do: 
+Build the next generation of deployment software and tooling for deploying our autonomy stack to cars and data centers
+Leverage your in-depth knowledge of computing hardware and software to squeeze the most out of the onboard embedded compute system
+Grow your software development skills by working side by side with some of the most talented and experienced engineers in the world
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Strong software skills in one or more programming languages is required. A desire for self-improvement is crucial for improving on the state of the art
+Personal or Professional experience when solving practical programming problems in Python and/or Rust
+Excellent communication and people skills: you will be working cross functionally throughout many different teams within Argo
+Hands-on experience with Linux based Operating Systems and personal computing hardware
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Software Engineer, Radar Perception","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+The Radar Software Engineering role supports the entire radar pipeline from characterizing the physical characteristics of different radars to algorithmic development to make autonomous vehicles smarter & safer under various challenging scenarios, e.g., poor lighting, severe weather, long distance, etc. Moreover, the candidate will work deeply with the rest of the tracking team to fuse radar data with other sensory modalities to ensure the perception system generates a precise, temporally consistent representation of the environment.
+What you’ll do: 
+Radar is critical to autonomous driving. You will develop core algorithm and software modules for the radar pipeline, from frontend raw data processing to backend fusion with other sensor modalities.
+Your work will be essential to fielding these vehicles and you will have direct exposure to real world data and feedback, and the satisfaction of having contributed to a state-of-the art autonomous vehicle.
+You will be part of a broader perception team and will participate in discussions and brainstorming.
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, Physics, Robotics or a related field (MSc/PhD preferred).
+Knowledgeable in areas pertaining to radar: signal processing, range/Doppler/angle estimation, ambiguity function, undersampling, multipath modeling, frequency modulation, radio interference mitigation, data filtering, time synchronization, etc.
+Hand-on experience on automotive radar data analysis, e.g., radar data interpretation, outlier analysis & removal, data uncertainty modeling, false alarm detection, radar data labelling, system diagnostics, etc.
+Experience on sensor fusion, e.g., robust state estimation and tracking ( EKF, UKF, PF), data association, numerical optimization techniques, 2D/3D geometry, robotics, etc.
+Knowledge of the advantages and limitations of each sensor modality used by autonomous vehicles.
+Strong software engineering skills. Experience with C++ is required and modern C++ knowledge is strongly desired.
+Significant experience optimizing code to be both compute and memory efficient.
+Experience with software system architecture design, particularly for real-time applications.
+Excellent written and oral communications skills.
+Experience in Linux environments is desired.
+Experience developing, and evaluating real time radar tracking systems.
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Technical Lead Manager, Prediction","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Prediction is a core technical problem for L4 self-driving vehicles and a key part of our autonomy stack. For a self-driving vehicle to navigate the world safely and efficiently, it needs to reliably infer the underlying intent of other objects (such as vehicles, pedestrians, bicyclists) by analyzing the perception data. Fundamentally, this is a machine learning problem involving multiple interacting agents subject to real-time performance constraints. We are looking for candidates with deep machine learning expertise that have built and deployed software systems to solve real world problems. Candidates need not have worked on self-driving, or robotics applications.
+What you’ll do:
+Responsible for the component of the self driving vehicle software stack to forecast what other objects in the scene will do in conjunction with the AV
+Leading the team to advance the algorithmic performance through pragmatic and rigorous A vs B evaluations using a mix of state of the art and established techniques
+Ensure that the algorithms are integrated within our onboard infrastructure and hardware, are robustly implemented and run in real time
+Coordinate with offboard teams to select and label relevant data to improve our prediction algorithms and develop metrics by which the prediction system is evaluated
+Manage a team of ~10 engineers and researchers
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Experienced software engineer working on problems with advanced algorithms or researcher with a track record of real world applications involving solid software engineering
+Strong theoretical knowledge in machine learning (both classical and deep learning)
+Preference for candidates with experience in techniques used for behavior analysis, activity recognition, intent prediction, time series forecasting and multi-agent interactions
+Proven applied machine learning skills to solve real world problems and deal with real world data
+Candidates should know how to manage datasets, analyze models and know how to improve performance through targeted data collection, data mining and/or labeling
+Strong desire for candidates with hands on experience that have deployed real products or platforms into the real world and intimately understand the challenges of working with complex systems
+Proven track record of leading small teams on highly challenging machine learning problems to solve real world applications
+Knows how to recruit top software engineering talent
+Knows how to recruit top machine learning talent
+Knows how to manage and lead a strong engineering team
+Has experience with all key aspects of attracting and maintaining a strong technical team 
+Knows how to work programs with aggressive schedules, how to mitigate risks while still making large technical advances
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+ At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
+"Technical Lead, Object Tracking","Who we are:
+Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions. 
+Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries.
+Meet the team:
+Tracking is a core technical problem for L4 self-driving vehicles and a key part of our autonomy stack. Self-driving cars need to track actors and estimate velocities around the vehicle to enable rapid and accurate decision making. The implementation must meet rigorous real-time constraints and report stable tracks for the car to accurately identify the 3D state of the world. Ultimately, we must not only solve the algorithm challenges but produce safety-quality high performance software. So this position is as much a software challenge as it is a core algorithm challenge.
+We are looking for hands on candidates who can set the vision for, grow, and lead a strong technical team with a mix of vision, probabilistic filtering and LiDAR algorithm experience and strong software experience. We are looking for a team lead who will be deep in code, and is technically strong in software and strong in tracking algorithms -- segmentation, clustering, data association, multi-extended object tracking and filtering, MHT or other registration algorithms. Candidates need not have worked on self-driving, or robotics applications. 
+What you’ll do:
+Responsible for the component of the self driving vehicle keeping track in space and time of objects around the car and estimating their velocities
+Leading the team to advance the algorithmic performance through pragmatic and rigorous A vs B evaluations using a mix of state of the art or “classical” techniques
+Ensure that the algorithms are integrated within our onboard infrastructure and hardware, are robustly implemented and run in real time
+Coordinate with data collection to select and label relevant data to improve our tracking algorithms and develop metrics by which the tracking system is evaluated
+Manage a team of ~7 engineers and researchers
+What you'll need to succeed:
+Degree in Computer Engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Experienced software engineer working on problems with advanced algorithms or researcher with a track record of real world applications involving solid software engineering
+Managed or tech lead small teams
+Strong theoretical and practical applied knowledge of relevant subsets of tracking-relevant algorithms is required
+Strong software engineering skills using C++ are required. If the candidate is not already an expert in C++, a willingness to gain stronger software engineering knowledge in this language is required
+Strong leadership skills suitable for recruiting, leading and managing a team of engineers to solve a challenging problem and build a critical component of a real-time system
+We are building a product, so candidates with hands on experience that have deployed real products or platforms and intimately understand the challenges of working with complex systems are highly desired
+Strong presentation and communication skills are desired
+Managed or tech lead small teams
+Real-time applications
+Kalman Filtering
+Image or LIDAR-based Tracking
+Multiple Object Tracking
+What we offer you:
+High-quality individual and family medical, dental, and vision insurance
+Competitive compensation packages
+Employer-matched 401(k) retirement plan with immediate vesting
+Employer-paid group term life insurance and the option to elect voluntary life insurance 
+Paid parental leave 
+Paid medical leave
+Unlimited vacation
+Complimentary daily lunches, beverages, and snacks
+Pre-tax commuter benefits
+Monthly wellness stipend 
+Professional development reimbursement
+Employee assistance program
+Discounted programs that include legal services, identity theft protection, pet insurance, and more
+Company and team bonding outlets: employee resource groups, quarterly team activity stipend, and wellness initiatives
+Our Background:
+Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.
+ At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees."
