@@ -15,6 +15,7 @@ pip install selenium
 jupyter notebook
 ```
 ## Usage
+### Python IDE(Pycharm, etc.)
 ```python
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -23,4 +24,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import csv
+```
+### Jupyter Notebook
+```jupyternotebook
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 ```
