@@ -2,7 +2,7 @@
 Web scraping of Autonomous vehicle companies job career
 ## Installation
 ### Installing web scraping frame work
-```bash
+```python
 pip install BeautifulSoup4
 pip install selenium
 ```
@@ -15,7 +15,7 @@ pip install selenium
 jupyter notebook
 ```
 ## Usage
-```
+```python
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
