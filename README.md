@@ -10,7 +10,7 @@ pip install selenium
 1. Download Anaconda from below link
 <br>[Anaconda](https://www.anaconda.com/products/individual)
 2. Open "Anaconda Prompt"
-3. Enter below to open Jupyter Notebook
+3. Enter below in the prompt to open Jupyter Notebook
 ```bash
 jupyter notebook
 ```
