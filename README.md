@@ -1,33 +1,41 @@
 # Web Scraper
 Web scraping of Autonomous vehicle companies job career
-## Installation
-### Installing web scraping frame work
+## Step1. Setup
+### Installation
 ```python
-pip install BeautifulSoup4
 pip install selenium
+pip install BeautifulSoup4
 ```
-### Anaconda and Jupyter Notebook(Windows)
-1. Download Anaconda from below link
-<br>[Anaconda](https://www.anaconda.com/products/individual)
-2. Open "Anaconda Prompt"
-3. Enter below in the prompt to open Jupyter Notebook
-```bash
-jupyter notebook
-```
-## Usage
-### Python IDE(Pycharm, etc.)
+### Download Web Driver(Chrome)
+Download from below link
+<br>[https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
+
+## Implementation for Web Scraping
+### Step2. Import Libraries
 ```python
 from bs4 import BeautifulSoup
+import requests
+import csv
+import re
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import csv
 ```
-### Jupyter Notebook
-```jupyternotebook
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
+### Step3. Set Driver(Selenium)
+```python
+PATH = "C:\Program Files (x86)\chromedriver.exe"
+driver = webdriver.Chrome(PATH)
+driver.delete_all_cookies()
+```
+### Step4. Put the resource you want to scrape
+#### Selenium
+```python
+driver.get('https://XXXXXXXXXXXXX')
+```
+#### Beautiful Soup
+```python
+page = requests.get('https://XXXXXXXXX').text
+soup = BeautifulSoup(page, 'lxml')
 ```
